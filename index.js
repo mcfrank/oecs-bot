@@ -12,11 +12,16 @@ const agent = new BskyAgent({
 
 
 async function main() {
-    await agent.login({ identifier: process.env.BLUESKY_USERNAME, password: process.env.BLUESKY_PASSWORD})
-    await agent.post({
-        text: "🙂"
-    });
-    console.log("Just posted!")
+    try {
+        await agent.login({ identifier: process.env.BLUESKY_USERNAME, password: process.env.BLUESKY_PASSWORD });
+        await agent.post({
+            text: "🙂"
+        });
+        console.log("Just posted!");
+    } catch (error) {
+        console.error("Error in main function:", error);
+        process.exit(1);
+    }
 }
 
 main();

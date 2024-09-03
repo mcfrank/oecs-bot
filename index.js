@@ -108,7 +108,7 @@ main();
 
 // Run this on a cron job
 const isTesting = process.env.NODE_ENV !== 'production';
-const scheduleExpression = isTesting ? '* * * * *' : '0 */3 * * *'; // Every minute for testing, every three hours for prod
+const scheduleExpression = isTesting ? '* * * * *' : '0 12 * * *'; // Every minute for testing, every three hours for prod
 
 const job = new CronJob(scheduleExpression, main);
 

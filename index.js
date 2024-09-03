@@ -12,7 +12,7 @@ const agent = new BskyAgent({
 
 
 async function main() {
-    await agent.login({ identifier: process.env.BLUESKY_USERNAME!, password: process.env.BLUESKY_PASSWORD!})
+    await agent.login({ identifier: process.env.BLUESKY_USERNAME, password: process.env.BLUESKY_PASSWORD})
     await agent.post({
         text: "🙂"
     });

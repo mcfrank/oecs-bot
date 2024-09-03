@@ -24,9 +24,10 @@
   "homepage": "https://github.com/mcfrank/oecs-bot#readme",
   "dependencies": {
     "@atproto/api": "^0.13.5",
+    "axios": "^1.7.7",
     "cron": "^3.1.7",
     "dotenv": "^16.4.5"
-  }, 
+  },
   "engines": {
     "node": "20.x"
   }

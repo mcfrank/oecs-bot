@@ -1,1 +1,1 @@
-worker: node oecs-bsky-bot.js
+worker: node index.js

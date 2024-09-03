@@ -1,7 +1,7 @@
-import { BskyAgent } from '@atproto/api';
-import * as dotenv from 'dotenv';
-import { CronJob } from 'cron';
-import * as process from 'process';
+const { BskyAgent } = require('@atproto/api');
+const dotenv = require('dotenv');
+const { CronJob } = require('cron');
+const process = require('process');
 
 dotenv.config();
 

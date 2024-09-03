@@ -3,6 +3,7 @@ const dotenv = require('dotenv');
 const { CronJob } = require('cron');
 const process = require('process');
 const axios = require('axios').default;
+const { TwitterApi } = require('twitter-api-v2'); // Import Twitter API
 
 
 dotenv.config();
@@ -24,6 +25,14 @@ const options = {
   },
   headers: {Accept: 'application/json'}
 };
+
+// Twitter API Client
+const twitterClient = new TwitterApi({
+  appKey: process.env.TWITTER_API_KEY,
+  appSecret: process.env.TWITTER_API_KEY_SECRET,
+  accessToken: process.env.TWITTER_ACCESS_TOKEN,
+  accessSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
+});
 
 
 // article array
@@ -76,7 +85,6 @@ function getNextArticle() {
 async function main() {
     try {
 
-
         // Fetch articles if not already done
         if (articles.length === 0) {
             await fetchArticles();
@@ -87,23 +95,30 @@ async function main() {
         // log into bluesky
         await agent.login({ identifier: process.env.BLUESKY_USERNAME, password: process.env.BLUESKY_PASSWORD });
 
+        // get bluesky rich text for link
         const rt = new RichText({
             text : `${nextArticle.name} by ${nextArticle.author}: ${nextArticle.link}`
         });
-
         await rt.detectFacets(agent)
 
+        // Post to Bluesky
         await agent.post({
             text: rt.text, 
             facets: rt.facets
         });
+
         console.log(`Posted: ${nextArticle.name} by ${nextArticle.author}: ${nextArticle.link}`);
+
+        // Post to Twitter
+        await twitterClient.v2.tweet(`${nextArticle.name} by ${nextArticle.author}: ${nextArticle.link}`);
+        console.log(`Posted to Twitter: ${nextArticle.name} by ${nextArticle.author}: ${nextArticle.link}`);
+
     } catch (error) {
         console.error("Error in main function:", error);
-        // Removed process.exit(1) to avoid crashing the app
     }
 }
-main();
+
+// main();
 
 
 // Run this on a cron job

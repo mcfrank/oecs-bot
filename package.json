@@ -1,0 +1,24 @@
+{
+  "name": "oecs-bot",
+  "version": "1.0.0",
+  "description": "A bot to post OECS articles to bluesky.",
+  "main": "oecs-bsky-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcfrank/oecs-bot.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "bot"
+  ],
+  "author": "Mike Frank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcfrank/oecs-bot/issues"
+  },
+  "homepage": "https://github.com/mcfrank/oecs-bot#readme"
+}

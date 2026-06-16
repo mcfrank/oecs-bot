@@ -16,11 +16,11 @@ require('dotenv').config();
 const DRY_RUN = process.argv.includes('--dry-run');
 
 async function repostBluesky(uri, cid) {
-  const u = process.env.PERSONAL_BLUESKY_USERNAME;
-  const p = process.env.PERSONAL_BLUESKY_PASSWORD;
+  const u = process.env.PERSONAL_BLUESKY_USERNAME || process.env.MIKE_BLUESKY_USERNAME;
+  const p = process.env.PERSONAL_BLUESKY_PASSWORD || process.env.MIKE_BLUESKY_APP_PASSWORD;
   if (!u || !p) return console.log('Personal Bluesky not configured — skipping.');
   const agent = new BskyAgent({ service: 'https://bsky.social' });
-  await agent.login({ identifier: u, password: p });
+  await agent.login({ identifier: u.replace(/^@/, ''), password: p }); // login rejects a leading @
   await agent.repost(uri, cid);
   console.log(`Reshared on Bluesky as ${u}`);
 }

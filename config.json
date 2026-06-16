@@ -1,0 +1,11 @@
+{
+  "pubpub": {
+    "base_url": "https://oecs.mit.edu/api",
+    "collection_id": "9dd2a47d-4a84-4126-9135-50a6383c26a9",
+    "community_id": "e2759450-b8e2-433a-a70d-45aff0f75d45",
+    "limit": 1000
+  },
+  "gemini": {
+    "model": "gemini-3.1-flash-lite"
+  }
+}

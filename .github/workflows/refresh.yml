@@ -1,0 +1,42 @@
+name: Refresh articles
+
+# Re-fetch articles from PubPub and regenerate summaries. Run manually when OECS
+# publishes new articles. Commits the updated data/ back to the repo.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch articles
+        env:
+          OECS_ACCOUNT: ${{ secrets.OECS_ACCOUNT }}
+          OECS_PASSWORD: ${{ secrets.OECS_PASSWORD }}
+        run: python scripts/fetch_articles.py
+
+      - name: Generate summaries
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/generate_summaries.py
+
+      - name: Commit data
+        run: |
+          git config user.name "oecs-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if ! git diff --staged --quiet; then
+            git commit -m "Refresh article data [skip ci]"
+            git push
+          fi

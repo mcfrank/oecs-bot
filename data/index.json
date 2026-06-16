@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "3036d218-80d9-425a-9367-9d3b0c4b9793",
+    "slug": "imt0sy0t",
+    "title": "Action",
+    "authors": [
+      "Elisabeth Pacherie"
+    ],
+    "doi": "10.21428/e2759450.3036d218",
+    "link": "https://doi.org/10.21428/e2759450.3036d218",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "703d687c-67ed-43d7-ba6a-42b65aa1aee4",
+    "slug": "go1i5g7i",
+    "title": "Active Learning",
+    "authors": [
+      "Azzurra Ruggeri"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/go1i5g7i",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "32a49570-936f-4fa0-b170-5b2a7dc3fbcf",
+    "slug": "gasxfap5",
+    "title": "Acquired Language Disorders",
+    "authors": [
+      "Stephen M. Wilson"
+    ],
+    "doi": "10.21428/e2759450.32a49570",
+    "link": "https://doi.org/10.21428/e2759450.32a49570",
+    "description": "also, Aphasia",
+    "image_url": null
+  },
+  {
+    "id": "2bb82513-6a81-4e06-8455-bec22a54c118",
+    "slug": "lug9d2y7",
+    "title": "Ad Hoc Categories",
+    "authors": [
+      "Lawrence W. Barsalou"
+    ],
+    "doi": "10.21428/e2759450.2bb82513",
+    "link": "https://doi.org/10.21428/e2759450.2bb82513",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "4d8ccc37-8923-424b-95bf-242a22a670ad",
+    "slug": "qwrz95aw",
+    "title": "Affective Neuroscience",
+    "authors": [
+      "Dean Mobbs"
+    ],
+    "doi": "10.21428/e2759450.4d8ccc37",
+    "link": "https://doi.org/10.21428/e2759450.4d8ccc37",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "7d88329e-0868-4d08-9f53-14c51faa8793",
+    "slug": "984ungzu",
+    "title": "Affordances",
+    "authors": [
+      "Anthony Chemero"
+    ],
+    "doi": "10.21428/e2759450.7d88329e",
+    "link": "https://doi.org/10.21428/e2759450.7d88329e",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "b0757e8d-0354-4d42-b94f-5a388d6948f9",
+    "slug": "dtatgf1j",
+    "title": "AI Model Evaluation",
+    "authors": [
+      "Jennifer Hu"
+    ],
+    "doi": "10.21428/e2759450.b0757e8d",
+    "link": "https://doi.org/10.21428/e2759450.b0757e8d",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "50c7e139-04b7-495a-9127-e765c78746ec",
+    "slug": "b61joemo",
+    "title": "Algorithmic Bias",
+    "authors": [
+      "Abeba Birhane"
+    ],
+    "doi": "10.21428/e2759450.50c7e139",
+    "link": "https://doi.org/10.21428/e2759450.50c7e139",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "fed73a94-7df9-4ee8-b90a-8ae4818494e0",
+    "slug": "yjq05b3c",
+    "title": "Analogy",
+    "authors": [
+      "Dedre Gentner"
+    ],
+    "doi": "10.21428/e2759450.fed73a94",
+    "link": "https://doi.org/10.21428/e2759450.fed73a94",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "ac4dab11-2f04-42d0-bddd-41df9cf57f54",
+    "slug": "rbmlimm5",
+    "title": "Animal Cognition",
+    "authors": [
+      "Emilie Rapport Munro",
+      "Josep Call"
+    ],
+    "doi": "10.21428/e2759450.ac4dab11",
+    "link": "https://doi.org/10.21428/e2759450.ac4dab11",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "6dfbcb34-9e88-4c6f-acfe-da2cea34e63c",
+    "slug": "sk15jg0g",
+    "title": "Animal Culture",
+    "authors": [
+      "Carel P. van Schaik"
+    ],
+    "doi": "10.21428/e2759450.6dfbcb34",
+    "link": "https://doi.org/10.21428/e2759450.6dfbcb34",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "3ce3f8af-f925-4dcd-8f37-719779cc33ab",
+    "slug": "xdqgwrkq",
+    "title": "Attention",
+    "authors": [
+      "Wayne Wu"
+    ],
+    "doi": "10.21428/e2759450.3ce3f8af",
+    "link": "https://doi.org/10.21428/e2759450.3ce3f8af",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/jomwhv6s/31719417964798.png"
+  },
+  {
+    "id": "60de8266-57e3-468a-910c-57af732dc728",
+    "slug": "bwt3qz7d",
+    "title": "Augmented Reality",
+    "authors": [
+      "Neil McDonnell"
+    ],
+    "doi": "10.21428/e2759450.60de8266",
+    "link": "https://doi.org/10.21428/e2759450.60de8266",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "db4c7c20-e5dc-4d2f-8284-1865a5c88fe0",
+    "slug": "dqw08mkw",
+    "title": "Autism",
+    "authors": [
+      "Uta Frith"
+    ],
+    "doi": "10.21428/e2759450.db4c7c20",
+    "link": "https://doi.org/10.21428/e2759450.db4c7c20",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "c0cec761-8189-4c76-ad6d-cb24351f9acf",
+    "slug": "98iya9su",
+    "title": "Bayesianism",
+    "authors": [
+      "Michael Rescorla"
+    ],
+    "doi": "10.21428/e2759450.c0cec761",
+    "link": "https://doi.org/10.21428/e2759450.c0cec761",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "7b420317-7b9a-45fd-92da-2e6e8ccc7d2e",
+    "slug": "lwxmte1p",
+    "title": "Bayesian Models of Cognition",
+    "authors": [
+      "Thomas L. Griffiths"
+    ],
+    "doi": "10.21428/e2759450.7b420317",
+    "link": "https://doi.org/10.21428/e2759450.7b420317",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "c09a632d-af80-41df-84b7-7f5ddaa8c2ba",
+    "slug": "1bjy1ebl",
+    "title": "Belief",
+    "authors": [
+      "Eric Mandelbaum",
+      "Cristina Ballarini"
+    ],
+    "doi": "10.21428/e2759450.c09a632d",
+    "link": "https://doi.org/10.21428/e2759450.c09a632d",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "2599e324-18c7-4d9e-8de5-ee90b29861e3",
+    "slug": "l0z54fpy",
+    "title": "Bilingualism",
+    "authors": [
+      "Ludovica Serratrice"
+    ],
+    "doi": "10.21428/e2759450.2599e324",
+    "link": "https://doi.org/10.21428/e2759450.2599e324",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "3d8f2887-5482-4353-bbb6-9fdc9008f7e4",
+    "slug": "ydxr9tvu",
+    "title": "Bodily Sensations",
+    "authors": [],
+    "doi": "10.21428/e2759450.3d8f2887",
+    "link": "https://doi.org/10.21428/e2759450.3d8f2887",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "02bf2682-aca1-4234-9b7a-2f2a7a322dd3",
+    "slug": "i1om74mo",
+    "title": "Causal Learning",
+    "authors": [
+      "Alison Gopnik"
+    ],
+    "doi": "10.21428/e2759450.02bf2682",
+    "link": "https://doi.org/10.21428/e2759450.02bf2682",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "0de13fd2-8cde-4c9c-9e5c-2d37551bf279",
+    "slug": "ee7y4opg",
+    "title": "Causal Reasoning",
+    "authors": [
+      "David Lagnado"
+    ],
+    "doi": "10.21428/e2759450.0de13fd2",
+    "link": "https://doi.org/10.21428/e2759450.0de13fd2",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/s54nyz8d/61724174926026.png"
+  },
+  {
+    "id": "19a2c99d-1bad-429a-8cbb-812483a0c311",
+    "slug": "5cdl3f1m",
+    "title": "Citizen Science",
+    "authors": [
+      "Antoine Coutrot",
+      "Hugo J. Spiers"
+    ],
+    "doi": "10.21428/e2759450.19a2c99d",
+    "link": "https://doi.org/10.21428/e2759450.19a2c99d",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/giqry8u0/61746562051952.png"
+  },
+  {
+    "id": "5e3d3713-fa93-4056-99c2-8ea1ca2a1c3e",
+    "slug": "bx21plqj",
+    "title": "Cognitive Artifacts",
+    "authors": [
+      "Valeria Giardino"
+    ],
+    "doi": "10.21428/e2759450.5e3d3713",
+    "link": "https://doi.org/10.21428/e2759450.5e3d3713",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "a24eecd4-37c6-44fc-87cf-2ab0c00c701a",
+    "slug": "zw60p83x",
+    "title": "Cognitive Development",
+    "authors": [
+      "Susan A. Gelman"
+    ],
+    "doi": "10.21428/e2759450.a24eecd4",
+    "link": "https://doi.org/10.21428/e2759450.a24eecd4",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "6ddb1c41-38d0-4f71-b6fb-968d0063ae5b",
+    "slug": "1bu7sqv2",
+    "title": "Cognitive Ontology",
+    "authors": [
+      "Colin Klein"
+    ],
+    "doi": "10.21428/e2759450.6ddb1c41",
+    "link": "https://doi.org/10.21428/e2759450.6ddb1c41",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "e6f9bed3-4653-434e-ba4d-2c2924454690",
+    "slug": "wax35u8s",
+    "title": "Cognitive Penetrability",
+    "authors": [
+      "Dimitria Electra Gatzia"
+    ],
+    "doi": "10.21428/e2759450.e6f9bed3",
+    "link": "https://doi.org/10.21428/e2759450.e6f9bed3",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "0fce3550-03f4-4a6b-bca3-1b08f48c3a9d",
+    "slug": "lcfp611b",
+    "title": "Cognitive Variability",
+    "authors": [
+      "Rogier A. Kievit"
+    ],
+    "doi": "10.21428/e2759450.0fce3550",
+    "link": "https://doi.org/10.21428/e2759450.0fce3550",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/lhfhxib1/oecs_cognitive-variability_fig1-41755634343850.png"
+  },
+  {
+    "id": "e19abb46-367b-4351-a9a8-69b98acc7404",
+    "slug": "fnnslclq",
+    "title": "Collective Intelligence",
+    "authors": [
+      "Jens Krause"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/fnnslclq",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/pe19abb46-367b-4351-a9a8-69b98acc7404/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/figure_berdahl_pacher-61780511475292.jpg"
+  },
+  {
+    "id": "671362c9-ba86-4a31-8c0c-66a2f7d16240",
+    "slug": "i3s7fym4",
+    "title": "Common Ground",
+    "authors": [
+      "Herbert H. Clark"
+    ],
+    "doi": "10.21428/e2759450.671362c9",
+    "link": "https://doi.org/10.21428/e2759450.671362c9",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "fe6e37e6-042b-4e7b-8327-2f149147031f",
+    "slug": "00hsw4x2",
+    "title": "Complex Dynamical Systems",
+    "authors": [
+      "Rick Dale"
+    ],
+    "doi": "10.21428/e2759450.fe6e37e6",
+    "link": "https://doi.org/10.21428/e2759450.fe6e37e6",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/44lpzdvq/51716919373173.jpg"
+  },
+  {
+    "id": "494deacd-ed49-4708-b686-c0597537339c",
+    "slug": "e222wyjy",
+    "title": "Compositionality",
+    "authors": [
+      "Ryan M. Nefdt",
+      "Christopher Potts"
+    ],
+    "doi": "10.21428/e2759450.494deacd",
+    "link": "https://doi.org/10.21428/e2759450.494deacd",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "cd81bff2-3df6-40d9-a45f-04fe1a89583e",
+    "slug": "nq8ws6q1",
+    "title": "Computational Complexity",
+    "authors": [
+      "Christopher Mole"
+    ],
+    "doi": "10.21428/e2759450.cd81bff2",
+    "link": "https://doi.org/10.21428/e2759450.cd81bff2",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "a23858f4-fbfe-44eb-b58d-c513b3fb55bb",
+    "slug": "hexmhaj8",
+    "title": "Computational Models of Language Learning",
+    "authors": [
+      "Raquel G. Alhama",
+      "Afra Alishahi"
+    ],
+    "doi": "10.21428/e2759450.a23858f4",
+    "link": "https://doi.org/10.21428/e2759450.a23858f4",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "ae707372-ad2c-41f0-83b2-2a3dac73963d",
+    "slug": "8c02n2f1",
+    "title": "Computational Models of Memory",
+    "authors": [
+      "Gregory E. Cox",
+      "Richard M. Shiffrin"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/8c02n2f1",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/pae707372-ad2c-41f0-83b2-2a3dac73963d/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/fig1-21778005657519.png"
+  },
+  {
+    "id": "2780596f-296e-42ce-a681-0e8032a10f3d",
+    "slug": "cmg9r89u",
+    "title": "Computational Theory of Mind",
+    "authors": [
+      "Matteo Colombo"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/cmg9r89u",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "1145a437-87b6-4e79-bb48-72121dffce62",
+    "slug": "j39m4jos",
+    "title": "Concepts",
+    "authors": [
+      "Nicholas Shea"
+    ],
+    "doi": "10.21428/e2759450.1145a437",
+    "link": "https://doi.org/10.21428/e2759450.1145a437",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "5ff2bcd7-4a6f-4643-851c-b44bdf11a9cd",
+    "slug": "pit4hw2l",
+    "title": "Conceptual Analysis",
+    "authors": [
+      "Frank Jackson"
+    ],
+    "doi": "10.21428/e2759450.5ff2bcd7",
+    "link": "https://doi.org/10.21428/e2759450.5ff2bcd7",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "0aea8c7d-88e4-4b66-b3b2-72eec31667e1",
+    "slug": "3daueu81",
+    "title": "Consciousness",
+    "authors": [
+      "Claire Sergent",
+      "Frédérique de Vignemont"
+    ],
+    "doi": "10.21428/e2759450.0aea8c7d",
+    "link": "https://doi.org/10.21428/e2759450.0aea8c7d",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "d3359a9d-5cac-4c2c-8d1a-5812ba3fd2e1",
+    "slug": "zf1nbs6d",
+    "title": "Consciousness and AI",
+    "authors": [
+      "Patrick Butlin"
+    ],
+    "doi": "10.21428/e2759450.d3359a9d",
+    "link": "https://doi.org/10.21428/e2759450.d3359a9d",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "3c00b537-a1fd-4efc-aa30-c3c5d4c8938a",
+    "slug": "gx9ypm4x",
+    "title": "Conversation",
+    "authors": [
+      "Kobin H. Kendrick",
+      "Judith Holler"
+    ],
+    "doi": "10.21428/e2759450.3c00b537",
+    "link": "https://doi.org/10.21428/e2759450.3c00b537",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "930d37f3-e155-498e-9719-a1499f122d2a",
+    "slug": "ooo4x800",
+    "title": "Cooperation",
+    "authors": [
+      "Sarah Mathew"
+    ],
+    "doi": "10.21428/e2759450.930d37f3",
+    "link": "https://doi.org/10.21428/e2759450.930d37f3",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "078ac821-b373-4083-af6b-b5f67210133f",
+    "slug": "hunngznm",
+    "title": "Counterfactual Thinking",
+    "authors": [
+      "Felipe De Brigard"
+    ],
+    "doi": "10.21428/e2759450.078ac821",
+    "link": "https://doi.org/10.21428/e2759450.078ac821",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "0066e600-ac8e-4c53-a091-e97e353a086b",
+    "slug": "wr2z56el",
+    "title": "Creativity",
+    "authors": [
+      "Mathias Benedek"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/wr2z56el",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "61e20c82-2d30-4747-b514-bc4a4bbdc288",
+    "slug": "mfsrxxgb",
+    "title": "Cultural Attractors",
+    "authors": [
+      "Nicolas Claidière",
+      "Dan Sperber"
+    ],
+    "doi": "10.21428/e2759450.61e20c82",
+    "link": "https://doi.org/10.21428/e2759450.61e20c82",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "304de239-b4d8-45f5-9792-93cf7c049763",
+    "slug": "u870vxpu",
+    "title": "Cultural Evolution",
+    "authors": [
+      "Alex Mesoudi"
+    ],
+    "doi": "10.21428/e2759450.304de239",
+    "link": "https://doi.org/10.21428/e2759450.304de239",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "44a6d380-736b-468d-9999-d74c5a7a7ae9",
+    "slug": "2t4l1ysv",
+    "title": "Cultural Universals",
+    "authors": [
+      "Manvir Singh"
+    ],
+    "doi": "10.21428/e2759450.44a6d380",
+    "link": "https://doi.org/10.21428/e2759450.44a6d380",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "eeafc0ed-be57-4a83-a2d2-5b4a0371bb98",
+    "slug": "6bvu7f8m",
+    "title": "Cumulative Culture",
+    "authors": [
+      "Maxime Derex"
+    ],
+    "doi": "10.21428/e2759450.eeafc0ed",
+    "link": "https://doi.org/10.21428/e2759450.eeafc0ed",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "e2c0ca66-c45d-4a0a-b8a5-10b6f5a340a7",
+    "slug": "z58iw4gy",
+    "title": "Delusion",
+    "authors": [
+      "Ema Sullivan-Bissett"
+    ],
+    "doi": "10.21428/e2759450.e2c0ca66",
+    "link": "https://doi.org/10.21428/e2759450.e2c0ca66",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "46da0cd7-0be7-4c3f-8193-379a283b4577",
+    "slug": "9ieavrmm",
+    "title": "Developmental Cognitive Neuroscience",
+    "authors": [
+      "Hilary Richardson"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/9ieavrmm",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "1d3e0934-ef5c-4572-ba3d-cce80de7fa10",
+    "slug": "ye47we9a",
+    "title": "Developmental Language Disorder",
+    "authors": [
+      "Chloë Ruth Marshall"
+    ],
+    "doi": "10.21428/e2759450.1d3e0934",
+    "link": "https://doi.org/10.21428/e2759450.1d3e0934",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "50749b98-0c3c-4081-bd37-18a4ee06296f",
+    "slug": "gbaucew9",
+    "title": "Distributional Semantics",
+    "authors": [
+      "Gemma Boleda"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/gbaucew9",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p50749b98-0c3c-4081-bd37-18a4ee06296f/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/Figure1-distributional_semantics_oecs_R1-31780512489793.png"
+  },
+  {
+    "id": "f40b8e0e-9624-487c-9e27-e358fe43b2b6",
+    "slug": "mvqjzy1w",
+    "title": "The Drift Diffusion Model",
+    "authors": [
+      "Ian Krajbich"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/mvqjzy1w",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/pf40b8e0e-9624-487c-9e27-e358fe43b2b6/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/figure1-21780513051351.png"
+  },
+  {
+    "id": "6ebfd2ab-4897-4c14-9140-d7334ea1f02f",
+    "slug": "v1h2ywu7",
+    "title": "Dyslexia",
+    "authors": [
+      "Anne Castles",
+      "Genevieve McArthur"
+    ],
+    "doi": "10.21428/e2759450.6ebfd2ab",
+    "link": "https://doi.org/10.21428/e2759450.6ebfd2ab",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "56b7211b-0974-4697-ac3f-fa58e6d30b4b",
+    "slug": "1y8kpgak",
+    "title": "Ecological Validity",
+    "authors": [
+      "Mark A. Schmuckler"
+    ],
+    "doi": "10.21428/e2759450.56b7211b",
+    "link": "https://doi.org/10.21428/e2759450.56b7211b",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "bd18e60f-2d3c-40dc-a952-42dd663436a5",
+    "slug": "0i6tb22l",
+    "title": "Economic Games",
+    "authors": [
+      "Manfred Milinski"
+    ],
+    "doi": "10.21428/e2759450.bd18e60f",
+    "link": "https://doi.org/10.21428/e2759450.bd18e60f",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "112fbf72-31c7-4d25-b533-93f796f483e3",
+    "slug": "d16msun2",
+    "title": "Episodic Future Thinking",
+    "authors": [
+      "Donna Rose Addis",
+      "Daniel L. Schacter"
+    ],
+    "doi": "10.21428/e2759450.112fbf72",
+    "link": "https://doi.org/10.21428/e2759450.112fbf72",
+    "description": "also, Prospection",
+    "image_url": null
+  },
+  {
+    "id": "c9a5f080-5bc3-4c80-9286-33661597bd5c",
+    "slug": "ptlnp5h2",
+    "title": "Eugenic Thinking and the Cognitive Sciences",
+    "authors": [
+      "Robert A. Wilson"
+    ],
+    "doi": "10.21428/e2759450.c9a5f080",
+    "link": "https://doi.org/10.21428/e2759450.c9a5f080",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "1e7a47fb-f710-46b3-aa3d-273fb7d38403",
+    "slug": "p8g1rykx",
+    "title": "Event Cognition",
+    "authors": [
+      "Jeffrey M. Zacks"
+    ],
+    "doi": "10.21428/e2759450.1e7a47fb",
+    "link": "https://doi.org/10.21428/e2759450.1e7a47fb",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "6b32d916-0c2c-4de7-a79b-590113026741",
+    "slug": "k9va0mfe",
+    "title": "Experimental Philosophy",
+    "authors": [
+      "Edouard Machery"
+    ],
+    "doi": "10.21428/e2759450.6b32d916",
+    "link": "https://doi.org/10.21428/e2759450.6b32d916",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "7f2d7559-7f0d-4dcf-9dee-c472db71f977",
+    "slug": "z7lx4w72",
+    "title": "The Extended Evolutionary Synthesis",
+    "authors": [
+      "Eva Jablonka"
+    ],
+    "doi": "10.21428/e2759450.7f2d7559",
+    "link": "https://doi.org/10.21428/e2759450.7f2d7559",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "a42adb11-7570-495a-ab34-2d20bb232cbe",
+    "slug": "za65x7nh",
+    "title": "Eye Movements",
+    "authors": [
+      "Mary Hayhoe"
+    ],
+    "doi": "10.21428/e2759450.a42adb11",
+    "link": "https://doi.org/10.21428/e2759450.a42adb11",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/pa42adb11-7570-495a-ab34-2d20bb232cbe/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/oecs_eye-movements_fig-11770225119677.jpg"
+  },
+  {
+    "id": "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9",
+    "slug": "h0rivqh3",
+    "title": "Face Perception",
+    "authors": [
+      "A. Mike Burton"
+    ],
+    "doi": "10.21428/e2759450.57de91a4",
+    "link": "https://doi.org/10.21428/e2759450.57de91a4",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "788d38b2-5b36-4d06-8abb-babcbcf74d7f",
+    "slug": "iho7yj85",
+    "title": "Foundations of Emotion",
+    "authors": [
+      "Christine Tappolet"
+    ],
+    "doi": "10.21428/e2759450.788d38b2",
+    "link": "https://doi.org/10.21428/e2759450.788d38b2",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "a7b4f718-9eef-4e5a-b186-ac4b4305960e",
+    "slug": "hggua2hs",
+    "title": "Foundations of Rationality",
+    "authors": [
+      "Nick Chater"
+    ],
+    "doi": "10.21428/e2759450.a7b4f718",
+    "link": "https://doi.org/10.21428/e2759450.a7b4f718",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "e4bf505d-63e2-403d-b492-492533f8981c",
+    "slug": "my8vpqih",
+    "title": "The Free Energy Principle",
+    "authors": [
+      "Maxwell J. D. Ramstead"
+    ],
+    "doi": "10.21428/e2759450.e4bf505d",
+    "link": "https://doi.org/10.21428/e2759450.e4bf505d",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "dd89f27c-4dc5-42aa-af61-ba9dcb0ae441",
+    "slug": "04xkf1kl",
+    "title": "Free Will",
+    "authors": [
+      "Neil Levy"
+    ],
+    "doi": "10.21428/e2759450.dd89f27c",
+    "link": "https://doi.org/10.21428/e2759450.dd89f27c",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
+    "slug": "oye8m8nz",
+    "title": "Generative Modeling",
+    "authors": [
+      "Jun-Yan Zhu",
+      "Phillip Isola"
+    ],
+    "doi": "10.21428/e2759450.ff10c6af",
+    "link": "https://doi.org/10.21428/e2759450.ff10c6af",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/gdy4396k/fig1-71737747188063.png"
+  },
+  {
+    "id": "f8b49c70-a648-4892-bf76-c2b0b863ef80",
+    "slug": "7mp7dfdd",
+    "title": "Geometry",
+    "authors": [
+      "Moira R. Dillon"
+    ],
+    "doi": "10.21428/e2759450.f8b49c70",
+    "link": "https://doi.org/10.21428/e2759450.f8b49c70",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "20f19477-5962-453c-96d6-070c5d5e6ae2",
+    "slug": "vibtkyng",
+    "title": "Gestalt Perception",
+    "authors": [
+      "Mary A. Peterson"
+    ],
+    "doi": "10.21428/e2759450.20f19477",
+    "link": "https://doi.org/10.21428/e2759450.20f19477",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p20f19477-5962-453c-96d6-070c5d5e6ae2/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/GeataltPerceptionFig1-41773424324231.png"
+  },
+  {
+    "id": "441037e5-2c92-47b2-b5a5-d3ea30869bf5",
+    "slug": "usvwqp80",
+    "title": "Gesture",
+    "authors": [
+      "Spencer D. Kelly"
+    ],
+    "doi": "10.21428/e2759450.441037e5",
+    "link": "https://doi.org/10.21428/e2759450.441037e5",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "e89203d9-be19-4e5f-ac23-697f86540307",
+    "slug": "9iq4376o",
+    "title": "Grounded Cognition",
+    "authors": [
+      "Lawrence W. Barsalou"
+    ],
+    "doi": "10.21428/e2759450.e89203d9",
+    "link": "https://doi.org/10.21428/e2759450.e89203d9",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "7a7ee600-a95d-4e45-a3ff-c2815d27ea4c",
+    "slug": "nsjk8k6v",
+    "title": "Hearing",
+    "authors": [
+      "Casey O’Callaghan"
+    ],
+    "doi": "10.21428/e2759450.7a7ee600",
+    "link": "https://doi.org/10.21428/e2759450.7a7ee600",
+    "description": "also, Audition",
+    "image_url": null
+  },
+  {
+    "id": "528dddc3-7c25-4ce0-902c-b596cdc01518",
+    "slug": "bq8p3lmb",
+    "title": "Hidden Markov Models",
+    "authors": [
+      "Ingmar Visser"
+    ],
+    "doi": "10.21428/e2759450.528dddc3",
+    "link": "https://doi.org/10.21428/e2759450.528dddc3",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/xy1lxfjg/41760104569618.png"
+  },
+  {
+    "id": "417ea271-01cb-4fa0-992a-9814a2cfa75a",
+    "slug": "qctxcxis",
+    "title": "Higher-Order Theories of Consciousness",
+    "authors": [
+      "David Rosenthal"
+    ],
+    "doi": "10.21428/e2759450.417ea271",
+    "link": "https://doi.org/10.21428/e2759450.417ea271",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "84dbfd75-18e3-4044-b7ef-3232e2f251dd",
+    "slug": "aj80dki5",
+    "title": "Human Rationality in Research",
+    "authors": [
+      "Ulrike Hahn"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/aj80dki5",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "971dd787-fc9d-46d7-b469-b73751f08843",
+    "slug": "7rwgc0pr",
+    "title": "Hypnosis",
+    "authors": [
+      "Devin B. Terhune"
+    ],
+    "doi": "10.21428/e2759450.971dd787",
+    "link": "https://doi.org/10.21428/e2759450.971dd787",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "515b2685-223a-4bc2-add6-76b934f5c974",
+    "slug": "alhskwz6",
+    "title": "Iconicity",
+    "authors": [
+      "David M. Sidhu"
+    ],
+    "doi": "10.21428/e2759450.515b2685",
+    "link": "https://doi.org/10.21428/e2759450.515b2685",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "0f654e1a-9f8e-46fe-b7a3-065e6164dc04",
+    "slug": "71jcl5ki",
+    "title": "Imitation",
+    "authors": [
+      "Cecilia Heyes"
+    ],
+    "doi": "10.21428/e2759450.0f654e1a",
+    "link": "https://doi.org/10.21428/e2759450.0f654e1a",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "ffa13e9c-415f-4f3b-91fb-5ab18e395d77",
+    "slug": "3l7ij1tb",
+    "title": "Infant-Directed Speech",
+    "authors": [
+      "Eon-Suk Ko"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/3l7ij1tb",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "01294143-9e2a-4db9-b47b-00e12a4145e5",
+    "slug": "fe4h89g7",
+    "title": "Infant Consciousness",
+    "authors": [
+      "Claudia Passos-Ferreira"
+    ],
+    "doi": "10.21428/e2759450.01294143",
+    "link": "https://doi.org/10.21428/e2759450.01294143",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p01294143-9e2a-4db9-b47b-00e12a4145e5/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/infant-consciousness-fig-51778603070096.png"
+  },
+  {
+    "id": "fe697b8a-eb87-48c4-a221-65cd86d2c61f",
+    "slug": "g905s76x",
+    "title": "Infant Perception",
+    "authors": [
+      "Scott P. Johnson"
+    ],
+    "doi": "10.21428/e2759450.fe697b8a",
+    "link": "https://doi.org/10.21428/e2759450.fe697b8a",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "a2555670-0e39-420e-ba83-270965dced2b",
+    "slug": "3wer9d7g",
+    "title": "Information and Misinformation",
+    "authors": [
+      "Andrew Perfors"
+    ],
+    "doi": "10.21428/e2759450.a2555670",
+    "link": "https://doi.org/10.21428/e2759450.a2555670",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "48614063-d2f8-438e-a562-ef8af1660b26",
+    "slug": "sqfksg4p",
+    "title": "Inner Speech",
+    "authors": [
+      "Charles Fernyhough"
+    ],
+    "doi": "10.21428/e2759450.48614063",
+    "link": "https://doi.org/10.21428/e2759450.48614063",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p48614063-d2f8-438e-a562-ef8af1660b26/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/oecs_inner-speech_figure1-41769637016411.jpg"
+  },
+  {
+    "id": "f00bd0fc-7a6b-453d-8c31-c3faadb7ebfb",
+    "slug": "tstdnja3",
+    "title": "Intellectual Humility",
+    "authors": [
+      "Elizabeth J. Krumrei-Mancuso"
+    ],
+    "doi": "10.21428/e2759450.f00bd0fc",
+    "link": "https://doi.org/10.21428/e2759450.f00bd0fc",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "2aa90758-22ca-4c23-a61f-08f181b93fb2",
+    "slug": "r4aze9cq",
+    "title": "Intelligence",
+    "authors": [
+      "K. Paige Harden"
+    ],
+    "doi": "10.21428/e2759450.2aa90758",
+    "link": "https://doi.org/10.21428/e2759450.2aa90758",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/eydu2en5/61752862316605.jpg"
+  },
+  {
+    "id": "e3df24b2-6b7f-4236-b2d8-820c0f680d40",
+    "slug": "h07kwvxo",
+    "title": "The Interaction Engine",
+    "authors": [
+      "Stephen C. Levinson"
+    ],
+    "doi": "10.21428/e2759450.e3df24b2",
+    "link": "https://doi.org/10.21428/e2759450.e3df24b2",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "6673bc2b-aec0-4576-912d-a87c37fcf7e5",
+    "slug": "6dwou1yj",
+    "title": "Intergroup Neuroscience",
+    "authors": [
+      "David M. Amodio"
+    ],
+    "doi": "10.21428/e2759450.6673bc2b",
+    "link": "https://doi.org/10.21428/e2759450.6673bc2b",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "84963756-458a-4c3c-946f-6e7add7869a0",
+    "slug": "h6pgywr9",
+    "title": "Interoception",
+    "authors": [
+      "Catherine Tallon-Baudry"
+    ],
+    "doi": "10.21428/e2759450.84963756",
+    "link": "https://doi.org/10.21428/e2759450.84963756",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "a685b0e0-9ff7-4d84-afb6-a4c5cc0d030f",
+    "slug": "1k3fjvin",
+    "title": "Introspection",
+    "authors": [
+      "Jérôme Sackur"
+    ],
+    "doi": "10.21428/e2759450.a685b0e0",
+    "link": "https://doi.org/10.21428/e2759450.a685b0e0",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "3f7da5ce-3e10-4f58-83a5-9fa2967e0cd7",
+    "slug": "m27ympza",
+    "title": "Intuitive Physics",
+    "authors": [
+      "Tomer Ullman"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/m27ympza",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p3f7da5ce-3e10-4f58-83a5-9fa2967e0cd7/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/intuitive_physics_oecs_figure1-21780520869242.png"
+  },
+  {
+    "id": "9666c9f2-7465-416d-bec8-8a5c0a23bf13",
+    "slug": "k7xz3u08",
+    "title": "Intuitive Theories",
+    "authors": [
+      "Frank Keil"
+    ],
+    "doi": "10.21428/e2759450.9666c9f2",
+    "link": "https://doi.org/10.21428/e2759450.9666c9f2",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "0dc92265-e615-4e04-94ec-2e5ba1c1f0e3",
+    "slug": "boh416wu",
+    "title": "Iterated Learning",
+    "authors": [
+      "Kenny Smith"
+    ],
+    "doi": "10.21428/e2759450.0dc92265",
+    "link": "https://doi.org/10.21428/e2759450.0dc92265",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/9o43rmt6/iterated-learning_fig1-11748447780905.png"
+  },
+  {
+    "id": "40bf93ad-44ed-4524-ae14-cc28c1ab9d09",
+    "slug": "ho9e9c80",
+    "title": "Language",
+    "authors": [
+      "Adele E. Goldberg"
+    ],
+    "doi": "10.21428/e2759450.40bf93ad",
+    "link": "https://doi.org/10.21428/e2759450.40bf93ad",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/blylwjfm/11741798406435.png"
+  },
+  {
+    "id": "b4a2349c-24b3-4065-afa2-cfd10ca18c0e",
+    "slug": "xohbfbix",
+    "title": "Language Acquisition",
+    "authors": [
+      "Ben Ambridge"
+    ],
+    "doi": "10.21428/e2759450.b4a2349c",
+    "link": "https://doi.org/10.21428/e2759450.b4a2349c",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "34857b04-96a7-46a1-bf96-8ca767a7d16a",
+    "slug": "18miikqb",
+    "title": "Language Evolution",
+    "authors": [
+      "Morten H. Christiansen"
+    ],
+    "doi": "10.21428/e2759450.34857b04",
+    "link": "https://doi.org/10.21428/e2759450.34857b04",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "79b53c0b-fc8d-4246-b4f5-0063518042a4",
+    "slug": "64sucmct",
+    "title": "The Language of Thought Hypothesis",
+    "authors": [
+      "Nicolas Porot",
+      "Eric Mandelbaum"
+    ],
+    "doi": "10.21428/e2759450.79b53c0b",
+    "link": "https://doi.org/10.21428/e2759450.79b53c0b",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "b076f599-1e63-48f6-979f-2f7b2d43bdae",
+    "slug": "e9aapok3",
+    "title": "Language Production",
+    "authors": [
+      "Zenzi M. Griffin"
+    ],
+    "doi": "10.21428/e2759450.b076f599",
+    "link": "https://doi.org/10.21428/e2759450.b076f599",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "0af7e268-ed8f-412c-b49e-d5e1367db80d",
+    "slug": "khjovpre",
+    "title": "Language Socialization",
+    "authors": [
+      "Lila San Roque"
+    ],
+    "doi": "10.21428/e2759450.0af7e268",
+    "link": "https://doi.org/10.21428/e2759450.0af7e268",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "2bb20e3c-e5d7-4543-b6a4-9a8024820dd3",
+    "slug": "zp5n8ivs",
+    "title": "Large Language Models",
+    "authors": [
+      "Melanie Mitchell"
+    ],
+    "doi": "10.21428/e2759450.2bb20e3c",
+    "link": "https://doi.org/10.21428/e2759450.2bb20e3c",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "f61797a0-b01f-42f7-95f8-7f9f333ab8b5",
+    "slug": "ztivn7hx",
+    "title": "Levels of Analysis",
+    "authors": [
+      "Richard P. Cooper",
+      "David Peebles"
+    ],
+    "doi": "10.21428/e2759450.f61797a0",
+    "link": "https://doi.org/10.21428/e2759450.f61797a0",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "e223a86b-8d6d-4a35-b69a-dd9b081c31b2",
+    "slug": "5wqto9iq",
+    "title": "Linguistic Variation",
+    "authors": [
+      "Evan Kidd"
+    ],
+    "doi": "10.21428/e2759450.e223a86b",
+    "link": "https://doi.org/10.21428/e2759450.e223a86b",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "9a728587-7b68-4d57-bcc4-f047d8d3e790",
+    "slug": "ovf6i08h",
+    "title": "Linguistic Universals",
+    "authors": [
+      "William Croft"
+    ],
+    "doi": "10.21428/e2759450.9a728587",
+    "link": "https://doi.org/10.21428/e2759450.9a728587",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "dcf0298d-8b4e-4300-b150-9eef5c178eda",
+    "slug": "epclh9no",
+    "title": "Literacy",
+    "authors": [
+      "Kathleen Rastle"
+    ],
+    "doi": "10.21428/e2759450.dcf0298d",
+    "link": "https://doi.org/10.21428/e2759450.dcf0298d",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "56eb7cff-d23e-4d8b-9815-0c09bd789ee8",
+    "slug": "n6c8sb19",
+    "title": "Markov Chain Monte Carlo",
+    "authors": [
+      "Adam N. Sanborn"
+    ],
+    "doi": "10.21428/e2759450.56eb7cff",
+    "link": "https://doi.org/10.21428/e2759450.56eb7cff",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "6609ecb6-302f-4a92-95ed-dd25cde5efa4",
+    "slug": "ivtprtc8",
+    "title": "Meaning",
+    "authors": [
+      "Giosuè Baggio"
+    ],
+    "doi": "10.21428/e2759450.6609ecb6",
+    "link": "https://doi.org/10.21428/e2759450.6609ecb6",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "98d525c7-7abf-47e3-9382-77b14bb96b10",
+    "slug": "vgigt1aq",
+    "title": "Mechanistic Explanation",
+    "authors": [
+      "Carl F. Craver"
+    ],
+    "doi": "10.21428/e2759450.98d525c7",
+    "link": "https://doi.org/10.21428/e2759450.98d525c7",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "7b57c281-dd2f-4651-8c51-d359c75378c9",
+    "slug": "s41l0yu6",
+    "title": "Memory",
+    "authors": [
+      "Nikola Andonovski",
+      "Kourken Michaelian"
+    ],
+    "doi": "10.21428/e2759450.7b57c281",
+    "link": "https://doi.org/10.21428/e2759450.7b57c281",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "7f02300c-0751-461b-987d-dd51860cc2ef",
+    "slug": "ge65ctmu",
+    "title": "Mental Imagery",
+    "authors": [
+      "Margherita Arcangeli"
+    ],
+    "doi": "10.21428/e2759450.7f02300c",
+    "link": "https://doi.org/10.21428/e2759450.7f02300c",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/getpp1e4/31733344212056.jpg"
+  },
+  {
+    "id": "b3e7ef9b-adb2-403c-992e-786994f9b085",
+    "slug": "x0sk7df7",
+    "title": "Mental Representation",
+    "authors": [
+      "Manolo Martínez"
+    ],
+    "doi": "10.21428/e2759450.b3e7ef9b",
+    "link": "https://doi.org/10.21428/e2759450.b3e7ef9b",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/h4p90dvc/71743441133987.png"
+  },
+  {
+    "id": "c403b8e7-a569-4c42-ad95-ed6c760889e2",
+    "slug": "zjuzickv",
+    "title": "Metacognition",
+    "authors": [
+      "Joelle Proust"
+    ],
+    "doi": "10.21428/e2759450.c403b8e7",
+    "link": "https://doi.org/10.21428/e2759450.c403b8e7",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/mnbqqn6u/31733176165952.png"
+  },
+  {
+    "id": "28290566-fdbe-4ad4-8b65-b6b4c2c19055",
+    "slug": "hxdvpiaj",
+    "title": "Metaphor",
+    "authors": [
+      "Stephen J. Flusberg",
+      "Teenie Matlock"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/hxdvpiaj",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "3614036a-c8f1-4c04-a987-18e5bb1f7d04",
+    "slug": "7fjwb5k3",
+    "title": "The Mind-Body Problem",
+    "authors": [
+      "Tim Crane"
+    ],
+    "doi": "10.21428/e2759450.3614036a",
+    "link": "https://doi.org/10.21428/e2759450.3614036a",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "bfd2f9b7-98f2-4c2a-a8ba-83f4a98a82a5",
+    "slug": "tuj66qxb",
+    "title": "Mirror Neurons",
+    "authors": [
+      "Cristina Becchio"
+    ],
+    "doi": "10.21428/e2759450.bfd2f9b7",
+    "link": "https://doi.org/10.21428/e2759450.bfd2f9b7",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "afbd5860-d526-4a7b-8e74-d1e964bd919a",
+    "slug": "k8krmjgg",
+    "title": "Modularity",
+    "authors": [
+      "Richard Samuels"
+    ],
+    "doi": "10.21428/e2759450.afbd5860",
+    "link": "https://doi.org/10.21428/e2759450.afbd5860",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "be02a602-f297-4c4b-9465-44cdce28b6bc",
+    "slug": "01qi4kql",
+    "title": "Moral Development",
+    "authors": [
+      "Audun Dahl",
+      "Mahesh Srinivasan"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/01qi4kql",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "7772416b-3721-45f0-8ccf-545e409a196f",
+    "slug": "k0l9s1hf",
+    "title": "Morphology",
+    "authors": [
+      "John Mansfield"
+    ],
+    "doi": "10.21428/e2759450.7772416b",
+    "link": "https://doi.org/10.21428/e2759450.7772416b",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "0b8879c0-25a9-4d2b-8f5a-2f27b89b3282",
+    "slug": "l3hscpvx",
+    "title": "Motor Learning",
+    "authors": [
+      "Jonathan Tsay"
+    ],
+    "doi": "10.21428/e2759450.0b8879c0",
+    "link": "https://doi.org/10.21428/e2759450.0b8879c0",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/czu0fn9y/oecs_motor-learning_fig1-01764859845145.png"
+  },
+  {
+    "id": "5cc1206d-47f0-4643-8193-7369ea30f65a",
+    "slug": "nj8ddnjn",
+    "title": "Multi-Representational Learning",
+    "authors": [
+      "Shaaron E Ainsworth"
+    ],
+    "doi": "10.21428/e2759450.5cc1206d",
+    "link": "https://doi.org/10.21428/e2759450.5cc1206d",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/9gjcusiz/71760713984256.png"
+  },
+  {
+    "id": "0582140e-5b82-4159-842b-d8bd56c81e9a",
+    "slug": "c1pqmxoq",
+    "title": "Multiple Realizability",
+    "authors": [
+      "Thomas W. Polger"
+    ],
+    "doi": "10.21428/e2759450.0582140e",
+    "link": "https://doi.org/10.21428/e2759450.0582140e",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "2ac71673-4250-4798-b8b4-d40a4c958d52",
+    "slug": "yk2x399b",
+    "title": "Natural Kinds",
+    "authors": [
+      "Muhammad Ali Khalidi"
+    ],
+    "doi": "10.21428/e2759450.2ac71673",
+    "link": "https://doi.org/10.21428/e2759450.2ac71673",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "b4a768b6-34ce-4f5c-a4cb-e2a96cc1b34d",
+    "slug": "tnwxt05u",
+    "title": "Neuroaesthetics",
+    "authors": [
+      "Anjan Chatterjee"
+    ],
+    "doi": "10.21428/e2759450.b4a768b6",
+    "link": "https://doi.org/10.21428/e2759450.b4a768b6",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "25dc99f6-b419-4782-9a8c-9d157cb5f539",
+    "slug": "tnh82gsj",
+    "title": "Neuroeconomics",
+    "authors": [
+      "Joseph W. Kable"
+    ],
+    "doi": "10.21428/e2759450.25dc99f6",
+    "link": "https://doi.org/10.21428/e2759450.25dc99f6",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "3d4df41d-8ccf-43be-a67c-369f1050caaa",
+    "slug": "t5j0qv3d",
+    "title": "Neuroplasticity",
+    "authors": [
+      "Marina Bedny"
+    ],
+    "doi": "10.21428/e2759450.3d4df41d",
+    "link": "https://doi.org/10.21428/e2759450.3d4df41d",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "9793d1ae-c726-4096-bf96-edecba841ed5",
+    "slug": "3bgjh908",
+    "title": "Neuroscience of Language",
+    "authors": [
+      "Gesa Hartwigsen"
+    ],
+    "doi": "10.21428/e2759450.9793d1ae",
+    "link": "https://doi.org/10.21428/e2759450.9793d1ae",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "d858c2df-64ae-48e4-912d-9d6b7d5e67ac",
+    "slug": "7n23j8sg",
+    "title": "Neuroscience of Syntax",
+    "authors": [
+      "Evelina Fedorenko"
+    ],
+    "doi": "10.21428/e2759450.d858c2df",
+    "link": "https://doi.org/10.21428/e2759450.d858c2df",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/qmo3xs27/fig1_PanelA-21746210564399.png"
+  },
+  {
+    "id": "0f3276aa-dd61-45aa-8524-6acd3c0cea84",
+    "slug": "xyn6l8i3",
+    "title": "Niche Construction",
+    "authors": [
+      "Laurel Fogarty"
+    ],
+    "doi": "10.21428/e2759450.0f3276aa",
+    "link": "https://doi.org/10.21428/e2759450.0f3276aa",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/n853lqkq/image-61719868243075.png"
+  },
+  {
+    "id": "7e3ee15a-fb66-43e0-8f3a-ecbef43af410",
+    "slug": "sr3246n4",
+    "title": "Normativity",
+    "authors": [
+      "Marco F. H. Schmidt",
+      "Hannes Rakoczy"
+    ],
+    "doi": "10.21428/e2759450.7e3ee15a",
+    "link": "https://doi.org/10.21428/e2759450.7e3ee15a",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "44f29f6b-eec1-4823-a823-fd0c62de6208",
+    "slug": "rek9756r",
+    "title": "Numerical Cognition",
+    "authors": [
+      "David Barner"
+    ],
+    "doi": "10.21428/e2759450.44f29f6b",
+    "link": "https://doi.org/10.21428/e2759450.44f29f6b",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/6kl2093x/71760554550955.png"
+  },
+  {
+    "id": "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c",
+    "slug": "3r6pj6pn",
+    "title": "Open Science",
+    "authors": [
+      "Tom E. Hardwicke",
+      "Simine Vazire"
+    ],
+    "doi": "10.21428/e2759450.cdacaf45",
+    "link": "https://doi.org/10.21428/e2759450.cdacaf45",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "6aa18129-300c-4a57-993a-43dcc501d790",
+    "slug": "pj24xb6f",
+    "title": "Ownership",
+    "authors": [
+      "Ori Friedman"
+    ],
+    "doi": "10.21428/e2759450.6aa18129",
+    "link": "https://doi.org/10.21428/e2759450.6aa18129",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "5fd9a464-fdb3-4140-a63a-17fca7cb86fb",
+    "slug": "5l5gqg8s",
+    "title": "Parenting",
+    "authors": [
+      "Heidi Keller"
+    ],
+    "doi": "10.21428/e2759450.5fd9a464",
+    "link": "https://doi.org/10.21428/e2759450.5fd9a464",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "4481de80-63d9-42a2-87ee-0ef098143df8",
+    "slug": "chnh9r1z",
+    "title": "Perceptual Learning",
+    "authors": [
+      "Madeleine Ransom",
+      "Robert L. Goldstone"
+    ],
+    "doi": "10.21428/e2759450.4481de80",
+    "link": "https://doi.org/10.21428/e2759450.4481de80",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "8593aeda-8eca-4007-bdf8-353ec295786d",
+    "slug": "2pvnx08y",
+    "title": "Personal/Subpersonal Distinction",
+    "authors": [
+      "Zoe Drayson"
+    ],
+    "doi": "10.21428/e2759450.8593aeda",
+    "link": "https://doi.org/10.21428/e2759450.8593aeda",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "032c68ca-f219-4208-ab78-a9cdbee59a25",
+    "slug": "xep4vfyz",
+    "title": "Phonology",
+    "authors": [
+      "Juliette Blevins"
+    ],
+    "doi": "10.21428/e2759450.032c68ca",
+    "link": "https://doi.org/10.21428/e2759450.032c68ca",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/2hwj3pit/oecs_phonology_fig1-51746730729925.png"
+  },
+  {
+    "id": "4b3f5d12-e7c2-4259-9119-105c67728b64",
+    "slug": "be5ufmz2",
+    "title": "Physicalism",
+    "authors": [
+      "Daniel Stoljar"
+    ],
+    "doi": "10.21428/e2759450.4b3f5d12",
+    "link": "https://doi.org/10.21428/e2759450.4b3f5d12",
+    "description": "also, Materialism",
+    "image_url": null
+  },
+  {
+    "id": "454c0c20-8795-47b5-ad38-6ffe474bc818",
+    "slug": "y4e45rq6",
+    "title": "Play",
+    "authors": [
+      "Laura Schulz"
+    ],
+    "doi": "10.21428/e2759450.454c0c20",
+    "link": "https://doi.org/10.21428/e2759450.454c0c20",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "54c9be0b-4371-4152-b4b0-df99910a552c",
+    "slug": "suwgvzqg",
+    "title": "Primate Communication",
+    "authors": [
+      "Katja Liebal"
+    ],
+    "doi": "10.21428/e2759450.54c9be0b",
+    "link": "https://doi.org/10.21428/e2759450.54c9be0b",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "a4045755-3387-456b-87ae-f107cae0327f",
+    "slug": "1w4cqquc",
+    "title": "Prosody",
+    "authors": [
+      "Fernanda Ferreira"
+    ],
+    "doi": "10.21428/e2759450.a4045755",
+    "link": "https://doi.org/10.21428/e2759450.a4045755",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "399d520e-a36c-4f88-922f-a23bb20a44aa",
+    "slug": "1cafk2cg",
+    "title": "Proxemics",
+    "authors": [
+      "Cade McCall"
+    ],
+    "doi": "10.21428/e2759450.399d520e",
+    "link": "https://doi.org/10.21428/e2759450.399d520e",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "8207aa16-6a58-496b-91d2-bb0f25d1a43d",
+    "slug": "y1uhdz0y",
+    "title": "Psycholinguistics",
+    "authors": [
+      "Fernanda Ferreira",
+      "Victor S. Ferreira"
+    ],
+    "doi": "10.21428/e2759450.8207aa16",
+    "link": "https://doi.org/10.21428/e2759450.8207aa16",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "6b5e3cdf-4131-49a1-9afc-2bbc495f1a03",
+    "slug": "sed0djko",
+    "title": "Qualia",
+    "authors": [
+      "Amy Kind"
+    ],
+    "doi": "10.21428/e2759450.6b5e3cdf",
+    "link": "https://doi.org/10.21428/e2759450.6b5e3cdf",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e",
+    "slug": "lurik5dk",
+    "title": "Rational Analysis",
+    "authors": [
+      "John R. Anderson"
+    ],
+    "doi": "10.21428/e2759450.b3b3e5e7",
+    "link": "https://doi.org/10.21428/e2759450.b3b3e5e7",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "96cf440a-1191-42e3-892f-9d0bcf10bd47",
+    "slug": "wxnjre8g",
+    "title": "Reasoning and Argumentation",
+    "authors": [
+      "Hugo Mercier"
+    ],
+    "doi": "10.21428/e2759450.96cf440a",
+    "link": "https://doi.org/10.21428/e2759450.96cf440a",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "9e968b77-3cdf-4e97-bcef-ed5eb968e8c4",
+    "slug": "o3wg9y45",
+    "title": "Recurrent Neural Networks",
+    "authors": [
+      "James S. Magnuson"
+    ],
+    "doi": "10.21428/e2759450.9e968b77",
+    "link": "https://doi.org/10.21428/e2759450.9e968b77",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/zzf3kq6g/51748534149583.png"
+  },
+  {
+    "id": "36d1ca92-5159-42f6-8fa6-ab7908b8e4e0",
+    "slug": "k2ek981x",
+    "title": "Reinforcement Learning",
+    "authors": [
+      "Anne GE Collins"
+    ],
+    "doi": "10.21428/e2759450.36d1ca92",
+    "link": "https://doi.org/10.21428/e2759450.36d1ca92",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "63b59680-df62-4eb3-9597-a0a902d7bb56",
+    "slug": "048ldgbt",
+    "title": "Ritual",
+    "authors": [
+      "Richard Sosis"
+    ],
+    "doi": "10.21428/e2759450.63b59680",
+    "link": "https://doi.org/10.21428/e2759450.63b59680",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "4a3255bf-9e56-4f0c-a2d1-b61c13f9a478",
+    "slug": "mhjvjq8o",
+    "title": "Scene Perception",
+    "authors": [
+      "Melissa Lê-Hoa Võ"
+    ],
+    "doi": "10.21428/e2759450.4a3255bf",
+    "link": "https://doi.org/10.21428/e2759450.4a3255bf",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p4a3255bf-9e56-4f0c-a2d1-b61c13f9a478/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/Fig.1_SceneGlimpses-01769218365049.gif"
+  },
+  {
+    "id": "efd6ccc3-f6ff-44dc-a0e0-94aefa14fdde",
+    "slug": "y25banqk",
+    "title": "Self",
+    "authors": [
+      "Adrian J. T. Alsmith"
+    ],
+    "doi": "10.21428/e2759450.efd6ccc3",
+    "link": "https://doi.org/10.21428/e2759450.efd6ccc3",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "6de7f0b9-ac65-4e1d-9238-3d40b4b82b20",
+    "slug": "qk3nm299",
+    "title": "Self-Consciousness",
+    "authors": [
+      "José Luis Bermúdez"
+    ],
+    "doi": "10.21428/e2759450.6de7f0b9",
+    "link": "https://doi.org/10.21428/e2759450.6de7f0b9",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "62f6ee4a-f8ee-4235-ab75-94c6e239b5db",
+    "slug": "gv7w7qrt",
+    "title": "Self-Regulation",
+    "authors": [
+      "Wilhelm Hofmann",
+      "Michael Inzlicht"
+    ],
+    "doi": "10.21428/e2759450.62f6ee4a",
+    "link": "https://doi.org/10.21428/e2759450.62f6ee4a",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p62f6ee4a-f8ee-4235-ab75-94c6e239b5db/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/Figure1-61779122770874.jpg"
+  },
+  {
+    "id": "7b88a436-ed76-495c-81b6-1ed4c8983382",
+    "slug": "15vuwt8a",
+    "title": "Sense of Agency",
+    "authors": [
+      "Patrick Haggard"
+    ],
+    "doi": "10.21428/e2759450.7b88a436",
+    "link": "https://doi.org/10.21428/e2759450.7b88a436",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "31252f1b-6343-415b-9f92-267f2ff69b38",
+    "slug": "lmiweq0s",
+    "title": "Sensory Substitution",
+    "authors": [
+      "Malika Auvray"
+    ],
+    "doi": "10.21428/e2759450.31252f1b",
+    "link": "https://doi.org/10.21428/e2759450.31252f1b",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/wxxwakfe/31739903300114.jpg"
+  },
+  {
+    "id": "624d819a-0408-400f-9117-d233c76052f9",
+    "slug": "mn7mjhx9",
+    "title": "Sentence Processing",
+    "authors": [
+      "Matthew Wagers",
+      "Brian Dillon"
+    ],
+    "doi": "10.21428/e2759450.624d819a",
+    "link": "https://doi.org/10.21428/e2759450.624d819a",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/haacr6l9/11744734783179.png"
+  },
+  {
+    "id": "0c47da2b-9afc-4910-b2df-56a04522a729",
+    "slug": "sep9e3c2",
+    "title": "Shared Intentionality",
+    "authors": [
+      "Michael Tomasello"
+    ],
+    "doi": "10.21428/e2759450.0c47da2b",
+    "link": "https://doi.org/10.21428/e2759450.0c47da2b",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "ce72080b-51b1-4cb6-8bc2-e323215d7d4e",
+    "slug": "l60gyowl",
+    "title": "Sign Language",
+    "authors": [
+      "Carol Padden"
+    ],
+    "doi": "10.21428/e2759450.ce72080b",
+    "link": "https://doi.org/10.21428/e2759450.ce72080b",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "46176256-2f06-4b0b-8586-ce86915c50c0",
+    "slug": "608a12kc",
+    "title": "Signal Detection Theory",
+    "authors": [
+      "John T. Wixted"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/608a12kc",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p46176256-2f06-4b0b-8586-ce86915c50c0/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/Fig1-51780426055285.png"
+  },
+  {
+    "id": "381bbb0e-94ec-40c5-a8d9-186994c29b61",
+    "slug": "s37heqam",
+    "title": "Signaling",
+    "authors": [
+      "Paul E. Smaldino"
+    ],
+    "doi": "10.21428/e2759450.381bbb0e",
+    "link": "https://doi.org/10.21428/e2759450.381bbb0e",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "95725785-2177-4106-b38d-fc693234f915",
+    "slug": "chloq7l9",
+    "title": "Skepticism",
+    "authors": [
+      "Santiago Echeverri"
+    ],
+    "doi": "10.21428/e2759450.95725785",
+    "link": "https://doi.org/10.21428/e2759450.95725785",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "5fc221ff-1176-4553-b4e4-e558b9b97fe3",
+    "slug": "1ba2q8ay",
+    "title": "Smell",
+    "authors": [
+      "Asifa Majid"
+    ],
+    "doi": "10.21428/e2759450.5fc221ff",
+    "link": "https://doi.org/10.21428/e2759450.5fc221ff",
+    "description": "also, Olfaction",
+    "image_url": null
+  },
+  {
+    "id": "0276fa5e-4671-4e70-a248-1ca87802602a",
+    "slug": "bc1nglmr",
+    "title": "Social Cognitive Neuroscience",
+    "authors": [
+      "Rebecca Saxe"
+    ],
+    "doi": "10.21428/e2759450.0276fa5e",
+    "link": "https://doi.org/10.21428/e2759450.0276fa5e",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "e29a27cc-375f-49ef-9936-8de3c0773982",
+    "slug": "j074k4aj",
+    "title": "Social Epistemology",
+    "authors": [
+      "Mandi Astola",
+      "Mark Alfano"
+    ],
+    "doi": "10.21428/e2759450.e29a27cc",
+    "link": "https://doi.org/10.21428/e2759450.e29a27cc",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "d85def4e-55b7-45e0-b487-d0853d4c3286",
+    "slug": "qlm9zp9e",
+    "title": "Social Identity",
+    "authors": [
+      "Jolanda Jetten"
+    ],
+    "doi": "10.21428/e2759450.d85def4e",
+    "link": "https://doi.org/10.21428/e2759450.d85def4e",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "b023280d-f0bf-49e5-94f5-822a9b39a389",
+    "slug": "d8e1n1e8",
+    "title": "Social Learning",
+    "authors": [
+      "Hyowon Gweon"
+    ],
+    "doi": "10.21428/e2759450.b023280d",
+    "link": "https://doi.org/10.21428/e2759450.b023280d",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "4ea61aa9-0cfd-43ce-805a-856b26b67be8",
+    "slug": "in0y7zea",
+    "title": "Sound Symbolism",
+    "authors": [
+      "Mutsumi Imai",
+      "Kimi Akita"
+    ],
+    "doi": "10.21428/e2759450.4ea61aa9",
+    "link": "https://doi.org/10.21428/e2759450.4ea61aa9",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "f1b0237e-fc60-40c7-84b6-c62bc7b3525c",
+    "slug": "or750iar",
+    "title": "Spatial Cognition",
+    "authors": [
+      "Nora S. Newcombe"
+    ],
+    "doi": "10.21428/e2759450.f1b0237e",
+    "link": "https://doi.org/10.21428/e2759450.f1b0237e",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "53d4d049-1c60-4f53-a2d1-cf2a1e3e5364",
+    "slug": "l6g6kh9i",
+    "title": "Speech Errors",
+    "authors": [
+      "Giulia M. L. Bencini"
+    ],
+    "doi": "10.21428/e2759450.53d4d049",
+    "link": "https://doi.org/10.21428/e2759450.53d4d049",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "626f4797-e641-4540-bebb-68b50d168b99",
+    "slug": "7gukl3db",
+    "title": "Speech Recognition",
+    "authors": [
+      "James M. McQueen"
+    ],
+    "doi": "10.21428/e2759450.626f4797",
+    "link": "https://doi.org/10.21428/e2759450.626f4797",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "7a74eed8-8807-485d-ae13-188b418b794f",
+    "slug": "jr9encpg",
+    "title": "Statistical Learning",
+    "authors": [
+      "Jenny Saffran"
+    ],
+    "doi": "10.21428/e2759450.7a74eed8",
+    "link": "https://doi.org/10.21428/e2759450.7a74eed8",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "e1fde27d-8b09-4968-ac29-c8713b7f1d00",
+    "slug": "52v2eei4",
+    "title": "Supervenience",
+    "authors": [
+      "Karen Bennett"
+    ],
+    "doi": "10.21428/e2759450.e1fde27d",
+    "link": "https://doi.org/10.21428/e2759450.e1fde27d",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "e4a8e626-0dd5-4eeb-8bca-36c950e99be4",
+    "slug": "o5xbugot",
+    "title": "Supervised and Unsupervised Learning ",
+    "authors": [
+      "Bradley C. Love"
+    ],
+    "doi": "10.21428/e2759450.e4a8e626",
+    "link": "https://doi.org/10.21428/e2759450.e4a8e626",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "411f0813-fb5f-4911-bd9f-f09b200da987",
+    "slug": "rma3jjdk",
+    "title": "Synesthesia",
+    "authors": [
+      "Nicolas Rothen"
+    ],
+    "doi": "10.21428/e2759450.411f0813",
+    "link": "https://doi.org/10.21428/e2759450.411f0813",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p411f0813-fb5f-4911-bd9f-f09b200da987/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/synesthesia-fig-1-61774376750796.png"
+  },
+  {
+    "id": "fea3a130-60e8-4a85-a556-b544949b7209",
+    "slug": "kxdcbmqe",
+    "title": "Syntactic Priming",
+    "authors": [
+      "Franklin Chang"
+    ],
+    "doi": "10.21428/e2759450.fea3a130",
+    "link": "https://doi.org/10.21428/e2759450.fea3a130",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/jujp52td/Figure1-71753315992178.png"
+  },
+  {
+    "id": "704d8d25-657f-474e-ac0b-55070309fc9e",
+    "slug": "fd4gbg5v",
+    "title": "Taste",
+    "authors": [
+      "Charles Spence"
+    ],
+    "doi": "10.21428/e2759450.704d8d25",
+    "link": "https://doi.org/10.21428/e2759450.704d8d25",
+    "description": "also, Gustation",
+    "image_url": "https://assets.pubpub.org/87p5gqrj/61761061188992.png"
+  },
+  {
+    "id": "4c3b0935-29d1-4d17-9602-e33ef33a2494",
+    "slug": "8q02cvue",
+    "title": "Theory of Mind",
+    "authors": [
+      "Henry M. Wellman"
+    ],
+    "doi": "10.21428/e2759450.4c3b0935",
+    "link": "https://doi.org/10.21428/e2759450.4c3b0935",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/uygg5wzx/image-11719251463362.png"
+  },
+  {
+    "id": "8680bbb7-7c77-4232-a223-85e35d90d5dc",
+    "slug": "h9s6crp1",
+    "title": "Time Perception",
+    "authors": [
+      "Christoph Hoerl"
+    ],
+    "doi": "10.21428/e2759450.8680bbb7",
+    "link": "https://doi.org/10.21428/e2759450.8680bbb7",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p8680bbb7-7c77-4232-a223-85e35d90d5dc/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/Figure_1-51769192286218.png"
+  },
+  {
+    "id": "80318b2e-6983-4967-a423-88060f9f2095",
+    "slug": "1g8693gt",
+    "title": "Touch",
+    "authors": [
+      "Matthew R. Longo"
+    ],
+    "doi": "10.21428/e2759450.80318b2e",
+    "link": "https://doi.org/10.21428/e2759450.80318b2e",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "8f8f9a82-728d-435c-997b-6c9eaf920854",
+    "slug": "11978318",
+    "title": "Transformative Experience",
+    "authors": [
+      "M.J. Crockett"
+    ],
+    "doi": "10.21428/e2759450.8f8f9a82",
+    "link": "https://doi.org/10.21428/e2759450.8f8f9a82",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "d3acfbfb-a27f-463f-96aa-d571c18e0f31",
+    "slug": "ppxhxe2b",
+    "title": "Transformers",
+    "authors": [
+      "Raphaël Millière"
+    ],
+    "doi": "10.21428/e2759450.d3acfbfb",
+    "link": "https://doi.org/10.21428/e2759450.d3acfbfb",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "7678921b-8c08-417a-8dc7-19c3dcccf046",
+    "slug": "uli3iiu9",
+    "title": "The Turing Test",
+    "authors": [
+      "Diane Proudfoot"
+    ],
+    "doi": "10.21428/e2759450.7678921b",
+    "link": "https://doi.org/10.21428/e2759450.7678921b",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "3bef4aa1-d28b-43f4-8a1e-1e4567399130",
+    "slug": "1s77iad9",
+    "title": "Unconscious Inference",
+    "authors": [
+      "Patrick Cavanagh"
+    ],
+    "doi": "10.21428/e2759450.3bef4aa1",
+    "link": "https://doi.org/10.21428/e2759450.3bef4aa1",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "2760bd31-093d-407a-9b2d-80c8cfb6f478",
+    "slug": "rr0bjsli",
+    "title": "Uniquely Human Cognition",
+    "authors": [
+      "Daniel B. M. Haun"
+    ],
+    "doi": "10.21428/e2759450.2760bd31",
+    "link": "https://doi.org/10.21428/e2759450.2760bd31",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "bc3a43dd-6cd2-4cb3-9b7f-6205e3409598",
+    "slug": "bg66cvhq",
+    "title": "Vestibular System",
+    "authors": [
+      "Christophe Lopez"
+    ],
+    "doi": "10.21428/e2759450.bc3a43dd",
+    "link": "https://doi.org/10.21428/e2759450.bc3a43dd",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "83209e91-e2a9-4e53-9fcf-1ddc2e520525",
+    "slug": "2vci5sg1",
+    "title": "Virtual Reality",
+    "authors": [
+      "Jeremy N. Bailenson"
+    ],
+    "doi": "10.21428/e2759450.83209e91",
+    "link": "https://doi.org/10.21428/e2759450.83209e91",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "d3438ecd-4953-4d2a-bb82-85a927b52378",
+    "slug": "8w58nrk1",
+    "title": "Visual Cognitive Neuroscience",
+    "authors": [
+      "Marius V. Peelen"
+    ],
+    "doi": "10.21428/e2759450.d3438ecd",
+    "link": "https://doi.org/10.21428/e2759450.d3438ecd",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/9ei6dlgk/71733238824575.png"
+  },
+  {
+    "id": "9aa55a0f-717e-4dab-924e-a5416554d893",
+    "slug": "8ya53iy6",
+    "title": "Visual Memory",
+    "authors": [
+      "Timothy F. Brady"
+    ],
+    "doi": "10.21428/e2759450.9aa55a0f",
+    "link": "https://doi.org/10.21428/e2759450.9aa55a0f",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/tiqg7x96/71762792787435.png"
+  },
+  {
+    "id": "7e642843-2da0-4a43-99e2-a18c1e67848e",
+    "slug": "n25y1nwt",
+    "title": "Visual Search",
+    "authors": [
+      "Jeremy M. Wolfe"
+    ],
+    "doi": "10.21428/e2759450.7e642843",
+    "link": "https://doi.org/10.21428/e2759450.7e642843",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/pobjn0v2/71742841238847.png"
+  },
+  {
+    "id": "8e9a83b0-7fe6-48e9-832b-8747aa245167",
+    "slug": "spow8trw",
+    "title": "WEIRD",
+    "authors": [
+      "Joseph Henrich"
+    ],
+    "doi": "10.21428/e2759450.8e9a83b0",
+    "link": "https://doi.org/10.21428/e2759450.8e9a83b0",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "b492816e-b52d-4767-83f0-94484b0e70d1",
+    "slug": "wdkwb956",
+    "title": "Wisdom",
+    "authors": [
+      "Igor Grossmann"
+    ],
+    "doi": "10.21428/e2759450.b492816e",
+    "link": "https://doi.org/10.21428/e2759450.b492816e",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "5e3f2bda-11e7-469c-b0ca-c54b44b91bf6",
+    "slug": "dubzy1cd",
+    "title": "Word Learning",
+    "authors": [
+      "Michael C. Frank"
+    ],
+    "doi": "10.21428/e2759450.5e3f2bda",
+    "link": "https://doi.org/10.21428/e2759450.5e3f2bda",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "5ff6246e-5a1e-4605-b50c-c43663584b7f",
+    "slug": "8p0rfzey",
+    "title": "Word Meaning",
+    "authors": [
+      "Jennifer M. Rodd"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/8p0rfzey",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "4f342e36-0806-479e-a2db-c6cc96eebe1e",
+    "slug": "1rgtz41v",
+    "title": "Working Memory",
+    "authors": [
+      "Graham J. Hitch",
+      "Alan D. Baddeley"
+    ],
+    "doi": "10.21428/e2759450.4f342e36",
+    "link": "https://doi.org/10.21428/e2759450.4f342e36",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "03877373-1013-46bb-89f0-a786661519cb",
+    "slug": "hnpt2een",
+    "title": "Neuroscience of Action",
+    "authors": [
+      "Laurel J. Buxbaum"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/hnpt2een",
+    "description": "",
+    "image_url": "https://assets.pubpub.org/ce2759450-b8e2-433a-a70d-45aff0f75d45/p03877373-1013-46bb-89f0-a786661519cb/ue722d345-f913-4c4e-a39f-cdb5f2e8788d/Neurosci_of_Action_Figure_1-51780522269014.jpg"
+  },
+  {
+    "id": "ce6ded0f-9bc2-4a45-a49b-afc84bf991c6",
+    "slug": "x1cmpaio",
+    "title": "Music Cognition",
+    "authors": [
+      "Josh H. McDermott"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/x1cmpaio",
+    "description": "",
+    "image_url": null
+  },
+  {
+    "id": "74a15520-6887-41a9-8037-e26ac0a3103c",
+    "slug": "a6ji50sl",
+    "title": "Morality",
+    "authors": [
+      "H. Clark Barrett"
+    ],
+    "doi": null,
+    "link": "https://oecs.mit.edu/pub/a6ji50sl",
+    "description": "",
+    "image_url": null
+  }
+]

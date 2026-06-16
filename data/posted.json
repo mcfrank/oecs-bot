@@ -1,6 +1,7 @@
 {
   "posted": [
-    "1145a437-87b6-4e79-bb48-72121dffce62"
+    "1145a437-87b6-4e79-bb48-72121dffce62",
+    "3ce3f8af-f925-4dcd-8f37-719779cc33ab"
   ],
   "history": [
     {
@@ -10,6 +11,15 @@
       "date": "2026-06-16T19:15:20.071Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mogj3tww6k24",
       "tweet_id": "2066962852158521531"
+    },
+    {
+      "id": "3ce3f8af-f925-4dcd-8f37-719779cc33ab",
+      "slug": "xdqgwrkq",
+      "title": "Attention",
+      "date": "2026-06-16T19:29:08.642Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mogjukcxum2r",
+      "bluesky_cid": "bafyreibnuz5l6bjps76z6fachxgzzjseo7jfahpsuwxbh5er6md5xpzigm",
+      "tweet_id": "2066966332462317949"
     }
   ]
 }

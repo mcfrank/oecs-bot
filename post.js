@@ -12,6 +12,7 @@ const fs = require('fs');
 const path = require('path');
 const { BskyAgent, RichText } = require('@atproto/api');
 const { TwitterApi } = require('twitter-api-v2');
+const { makeCard } = require('./card');
 require('dotenv').config();
 
 const DRY_RUN = process.argv.includes('--dry-run');
@@ -38,11 +39,14 @@ function bylineFor(authors, handles, platform) {
   return `${render(authors[0])} et al.`;
 }
 
-function composeText(article, hook, byline) {
+// includeLink=false omits the article link (used for the X main tweet, since X
+// suppresses posts with links — the link goes in a reply instead).
+function composeText(article, hook, byline, { includeLink = true } = {}) {
   const head = `${article.title}${byline ? ` by ${byline}` : ''}`;
-  if (!hook) return `${head}: ${article.link}\n\n${HASHTAG}`;
+  const linkLine = includeLink ? `\n${article.link}` : '';
+  if (!hook) return includeLink ? `${head}: ${article.link}\n\n${HASHTAG}` : `${head}\n\n${HASHTAG}`;
 
-  const tail = `\n\n${head}\n${article.link}\n\n${HASHTAG}`;
+  const tail = `\n\n${head}${linkLine}\n\n${HASHTAG}`;
   let text = hook + tail;
   if (text.length > BSKY_LIMIT) {
     const overage = text.length - BSKY_LIMIT;
@@ -100,7 +104,7 @@ async function postBluesky(text, image, alt) {
   return { uri: res.uri, cid: res.cid }; // cid is needed to repost later
 }
 
-async function postTwitter(text, image, alt) {
+async function postTwitter(text, image, alt, replyText) {
   const client = new TwitterApi({
     appKey: process.env.TWITTER_API_KEY,
     appSecret: process.env.TWITTER_API_KEY_SECRET,
@@ -117,8 +121,16 @@ async function postTwitter(text, image, alt) {
       console.error('Twitter image upload failed, posting text-only:', e.message);
     }
   }
-  const res = await client.v2.tweet(text, mediaIds ? { media: { media_ids: mediaIds } } : undefined);
-  return res.data.id;
+  const main = await client.v2.tweet(text, mediaIds ? { media: { media_ids: mediaIds } } : undefined);
+  // Link goes in a reply: X down-ranks posts that contain links.
+  if (replyText) {
+    try {
+      await client.v2.tweet(replyText, { reply: { in_reply_to_tweet_id: main.data.id } });
+    } catch (e) {
+      console.error('Twitter link-reply failed:', e.message);
+    }
+  }
+  return main.data.id;
 }
 
 async function main() {
@@ -137,20 +149,34 @@ async function main() {
   if (!article) throw new Error(`No article with slug "${ARTICLE_SLUG}"`);
   const hook = summaries[article.id];
   const bskyText = composeText(article, hook, bylineFor(article.authors, handles, 'bsky'));
-  const twitterText = composeText(article, hook, bylineFor(article.authors, handles, 'twitter'));
-  const alt = `Figure from the OECS article "${article.title}".`;
+  const twitterText = composeText(article, hook, bylineFor(article.authors, handles, 'twitter'), { includeLink: false });
+  const twitterReply = `Read the full article: ${article.link}`;
+  const plainByline = bylineFor(article.authors, {}, 'bsky'); // names, no @-handles
 
   console.log(`Article: ${article.title} (${article.id})`);
   console.log(`Bluesky (${bskyText.length} chars):\n${bskyText}\n`);
-  if (twitterText !== bskyText) console.log(`Twitter (${twitterText.length} chars):\n${twitterText}\n`);
-  console.log(`Image: ${article.image_url || 'none'}`);
+  console.log(`Twitter (${twitterText.length} chars):\n${twitterText}\n  ↳ reply: ${twitterReply}\n`);
+  console.log(`Image: ${article.image_url ? 'article figure' : 'generated card'}`);
 
   if (DRY_RUN) {
     console.log('[dry-run] nothing posted.');
     return;
   }
 
-  const image = await downloadImage(article.image_url);
+  // Article figure if it has one; otherwise a branded typographic card.
+  let image, alt;
+  if (article.image_url) {
+    image = await downloadImage(article.image_url);
+    alt = `Figure from the OECS article "${article.title}".`;
+  }
+  if (!image) {
+    try {
+      image = { buffer: makeCard({ title: article.title, byline: plainByline, abstract: article.abstract }), mime: 'image/png' };
+      alt = `Open Encyclopedia of Cognitive Science: "${article.title}"${plainByline ? ` by ${plainByline}` : ''}. ${(article.abstract || '').slice(0, 200)}`;
+    } catch (e) {
+      console.error('Card generation failed, posting text-only:', e.message);
+    }
+  }
 
   const record = { id: article.id, slug: article.slug, title: article.title, date: new Date().toISOString() };
 
@@ -164,7 +190,7 @@ async function main() {
   }
 
   try {
-    record.tweet_id = await postTwitter(twitterText, image, alt);
+    record.tweet_id = await postTwitter(twitterText, image, alt, twitterReply);
     console.log(`Posted to Twitter: ${record.tweet_id}`);
   } catch (e) {
     console.error('Twitter post failed:', e.message);

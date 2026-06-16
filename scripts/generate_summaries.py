@@ -20,28 +20,24 @@ ROOT = Path(__file__).resolve().parents[1]
 MAX_HOOK_CHARS = 150
 TEXT_BUDGET = 4000  # chars of article body sent to the model
 
-PROMPT = (
-    "You write short, engaging social-media posts promoting Open Encyclopedia of "
-    "Cognitive Science articles to a broad, curious, educated audience (not specialists). "
-    "Given an article's title and text, write ONE vivid sentence (max 150 characters) that "
-    "makes someone want to read it. Rules: no hashtags, no emoji, no first person, do not "
-    "restate the title verbatim, avoid clichés like 'delves into' or 'this article explores'. "
-    "Return only the sentence, nothing else.\n\n"
-)
-
-
 def load_model():
     return json.loads((ROOT / "config.json").read_text())["gemini"]["model"]
 
 
-def make_hook(client, model, title, text):
-    contents = f"{PROMPT}TITLE: {title}\n\nTEXT: {text[:TEXT_BUDGET]}"
+def load_prompt():
+    return (Path(__file__).resolve().parent / "summary_prompt.txt").read_text().strip() + "\n\n"
+
+
+def make_hook(client, model, prompt, title, text):
+    contents = f"{prompt}TITLE: {title}\n\nTEXT: {text[:TEXT_BUDGET]}"
     for attempt in range(1, 4):
         try:
             resp = client.models.generate_content(model=model, contents=contents)
             hook = (resp.text or "").strip().strip('"').replace("\n", " ").strip()
             if len(hook) > MAX_HOOK_CHARS:
-                hook = hook[: MAX_HOOK_CHARS - 1].rstrip() + "…"
+                cut = hook[: MAX_HOOK_CHARS - 1]
+                cut = cut[: cut.rfind(" ")] if " " in cut else cut  # don't break mid-word
+                hook = cut.rstrip(" ,;:") + "…"
             return hook
         except Exception as exc:
             if attempt == 3:
@@ -60,6 +56,7 @@ def main():
         raise SystemExit("Missing GEMINI_API_KEY in .secrets")
 
     model = load_model()
+    prompt = load_prompt()
     client = genai.Client(api_key=api_key)
 
     articles_dir = ROOT / "data" / "articles"
@@ -79,7 +76,7 @@ def main():
         if not text:
             print(f"  skip (no text): {title}")
             continue
-        hook = make_hook(client, model, title, text)
+        hook = make_hook(client, model, prompt, title, text)
         summaries[aid] = hook
         generated += 1
         print(f"  {title}: {hook}")

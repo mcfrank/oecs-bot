@@ -139,3 +139,8 @@ data/articles/
 # Python
 __pycache__/
 .venv/
+
+# Editor autosave/backup files
+\#*\#
+.\#*
+*~

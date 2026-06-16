@@ -1,0 +1,29 @@
+name: Personal reshare (weekly)
+
+# Once a week (Fri 14:00 UTC), reshare the latest post from your personal
+# accounts for extra reach. Skips silently if personal secrets aren't set.
+# Disable in the Actions tab to turn off.
+on:
+  schedule:
+    - cron: '0 14 * * 5'
+  workflow_dispatch:
+
+jobs:
+  reshare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Reshare
+        env:
+          PERSONAL_BLUESKY_USERNAME: ${{ secrets.PERSONAL_BLUESKY_USERNAME }}
+          PERSONAL_BLUESKY_PASSWORD: ${{ secrets.PERSONAL_BLUESKY_PASSWORD }}
+          PERSONAL_TWITTER_API_KEY: ${{ secrets.PERSONAL_TWITTER_API_KEY }}
+          PERSONAL_TWITTER_API_KEY_SECRET: ${{ secrets.PERSONAL_TWITTER_API_KEY_SECRET }}
+          PERSONAL_TWITTER_ACCESS_TOKEN: ${{ secrets.PERSONAL_TWITTER_ACCESS_TOKEN }}
+          PERSONAL_TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.PERSONAL_TWITTER_ACCESS_TOKEN_SECRET }}
+        run: node personal_reshare.js

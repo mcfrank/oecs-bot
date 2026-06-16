@@ -65,6 +65,29 @@ def doc_to_text(node):
     return re.sub(r"\s+", " ", "".join(out)).strip()
 
 
+def first_paragraph(doc):
+    """Text of the first non-empty paragraph — OECS articles have no formal
+    abstract field, but the opening paragraph serves as one."""
+    def find(node):
+        if isinstance(node, dict):
+            if node.get("type") == "paragraph":
+                t = doc_to_text(node)
+                if t:
+                    return t
+            for v in node.get("content", []) or []:
+                r = find(v)
+                if r:
+                    return r
+        elif isinstance(node, list):
+            for x in node:
+                r = find(x)
+                if r:
+                    return r
+        return None
+
+    return find(doc) or ""
+
+
 def authors_from(pub):
     """Ordered list of author names (attributions flagged isAuthor)."""
     attrs = [a for a in (pub.get("attributions") or []) if a.get("isAuthor")]
@@ -114,13 +137,16 @@ def main():
 
         text_resp = session.get(f"{base}/pubs/{pub_id}/text", headers={"Accept": "application/json"}, timeout=60)
         plain_text = ""
+        abstract = ""
         image_url = None
         if text_resp.ok:
             raw = text_resp.text
             m = IMAGE_RE.search(raw)
             image_url = m.group(0) if m else None
             try:
-                plain_text = doc_to_text(text_resp.json())
+                doc = text_resp.json()
+                plain_text = doc_to_text(doc)
+                abstract = first_paragraph(doc)
             except Exception:
                 plain_text = ""
 
@@ -135,12 +161,12 @@ def main():
             "authors": authors,
             "doi": doi,
             "link": link,
-            "description": (pub.get("description") or "").strip(),
+            "abstract": abstract,
             "image_url": image_url,
             "plain_text": plain_text,
         }
         (articles_dir / f"{slug}.json").write_text(json.dumps(record, indent=2, ensure_ascii=False))
-        index.append({k: record[k] for k in ("id", "slug", "title", "authors", "doi", "link", "description", "image_url")})
+        index.append({k: record[k] for k in ("id", "slug", "title", "authors", "doi", "link", "abstract", "image_url")})
         print(f"  [{i}/{len(pubs)}] {record['title']} — {', '.join(authors) or 'no author'}{' [img]' if image_url else ''}")
 
     (ROOT / "data" / "index.json").write_text(json.dumps(index, indent=2, ensure_ascii=False))

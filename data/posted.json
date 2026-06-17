@@ -1,6 +1,7 @@
 {
   "posted": [
-    "a42adb11-7570-495a-ab34-2d20bb232cbe"
+    "a42adb11-7570-495a-ab34-2d20bb232cbe",
+    "5e3d3713-fa93-4056-99c2-8ea1ca2a1c3e"
   ],
   "history": [
     {
@@ -11,6 +12,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mogpcayyks2b",
       "bluesky_cid": "bafyreic4lon6bwfrulsvlcyri7yslamnaiop7hjvdamux6of2iaim7os3m",
       "tweet_id": "2066990779977888173"
+    },
+    {
+      "id": "5e3d3713-fa93-4056-99c2-8ea1ca2a1c3e",
+      "slug": "bx21plqj",
+      "title": "Cognitive Artifacts",
+      "date": "2026-06-17T14:17:43.685Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3moiiwmiprs2t",
+      "bluesky_cid": "bafyreidv4fk4bc3aiyuyk2ktyjvmozczx6nyif6of7uvgzrz5heonu4dqe",
+      "tweet_id": "2067250350147719176"
     }
   ]
 }

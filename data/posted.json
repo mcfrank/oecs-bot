@@ -2,7 +2,8 @@
   "posted": [
     "a42adb11-7570-495a-ab34-2d20bb232cbe",
     "5e3d3713-fa93-4056-99c2-8ea1ca2a1c3e",
-    "5fd9a464-fdb3-4140-a63a-17fca7cb86fb"
+    "5fd9a464-fdb3-4140-a63a-17fca7cb86fb",
+    "50749b98-0c3c-4081-bd37-18a4ee06296f"
   ],
   "history": [
     {
@@ -31,6 +32,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mokysofkyb2c",
       "bluesky_cid": "bafyreicc2rqmnzwwnszzmkecimwoe3qta2wrkobks6sxeib23hs4ig4yk4",
       "tweet_id": "2067610083727655253"
+    },
+    {
+      "id": "50749b98-0c3c-4081-bd37-18a4ee06296f",
+      "slug": "gbaucew9",
+      "title": "Distributional Semantics",
+      "date": "2026-06-19T14:10:43.922Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3monjhwx4ml2k",
+      "bluesky_cid": "bafyreifvi5cwixwhvig6w3qct5q4jeqckmoqyb72i6n3afsvynrcj6gwou",
+      "tweet_id": "2067973364061520238"
     }
   ]
 }

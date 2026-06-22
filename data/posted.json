@@ -3,7 +3,8 @@
     "a42adb11-7570-495a-ab34-2d20bb232cbe",
     "5e3d3713-fa93-4056-99c2-8ea1ca2a1c3e",
     "5fd9a464-fdb3-4140-a63a-17fca7cb86fb",
-    "50749b98-0c3c-4081-bd37-18a4ee06296f"
+    "50749b98-0c3c-4081-bd37-18a4ee06296f",
+    "528dddc3-7c25-4ce0-902c-b596cdc01518"
   ],
   "history": [
     {
@@ -41,6 +42,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3monjhwx4ml2k",
       "bluesky_cid": "bafyreifvi5cwixwhvig6w3qct5q4jeqckmoqyb72i6n3afsvynrcj6gwou",
       "tweet_id": "2067973364061520238"
+    },
+    {
+      "id": "528dddc3-7c25-4ce0-902c-b596cdc01518",
+      "slug": "bq8p3lmb",
+      "title": "Hidden Markov Models",
+      "date": "2026-06-22T15:00:30.222Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mov5npmib42f",
+      "bluesky_cid": "bafyreiffesnrxqmovsvfo6h76sblff7dpr7cuob7mmjvv3iqy4evrmynjy",
+      "tweet_id": "2069073055519830180"
     }
   ]
 }

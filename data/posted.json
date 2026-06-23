@@ -4,7 +4,8 @@
     "5e3d3713-fa93-4056-99c2-8ea1ca2a1c3e",
     "5fd9a464-fdb3-4140-a63a-17fca7cb86fb",
     "50749b98-0c3c-4081-bd37-18a4ee06296f",
-    "528dddc3-7c25-4ce0-902c-b596cdc01518"
+    "528dddc3-7c25-4ce0-902c-b596cdc01518",
+    "56b7211b-0974-4697-ac3f-fa58e6d30b4b"
   ],
   "history": [
     {
@@ -51,6 +52,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mov5npmib42f",
       "bluesky_cid": "bafyreiffesnrxqmovsvfo6h76sblff7dpr7cuob7mmjvv3iqy4evrmynjy",
       "tweet_id": "2069073055519830180"
+    },
+    {
+      "id": "56b7211b-0974-4697-ac3f-fa58e6d30b4b",
+      "slug": "1y8kpgak",
+      "title": "Ecological Validity",
+      "date": "2026-06-23T13:55:52.553Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3moxkj2yeci2a",
+      "bluesky_cid": "bafyreiajyhznv6whx67vpgfurlsyh35tmliiyoc3i3exgeqf6wtnbzxnzu",
+      "tweet_id": "2069419180567236770"
     }
   ]
 }

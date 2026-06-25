@@ -6,7 +6,8 @@
     "50749b98-0c3c-4081-bd37-18a4ee06296f",
     "528dddc3-7c25-4ce0-902c-b596cdc01518",
     "56b7211b-0974-4697-ac3f-fa58e6d30b4b",
-    "dd89f27c-4dc5-42aa-af61-ba9dcb0ae441"
+    "dd89f27c-4dc5-42aa-af61-ba9dcb0ae441",
+    "60de8266-57e3-468a-910c-57af732dc728"
   ],
   "history": [
     {
@@ -71,6 +72,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mp22k6yyja22",
       "bluesky_cid": "bafyreibgmtbasjnuxhrzg76advyprr3cebauh2a2hdwdn6fz3un5gttjja",
       "tweet_id": "2069779625031397379"
+    },
+    {
+      "id": "60de8266-57e3-468a-910c-57af732dc728",
+      "slug": "bwt3qz7d",
+      "title": "Augmented Reality",
+      "date": "2026-06-25T13:47:39.229Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mp4ky7bmrm2m",
+      "bluesky_cid": "bafyreids4wbtkqu2m7ndcn6iqrthawuuufnqhbsrsolbzlnaj2rkc2sdd4",
+      "tweet_id": "2070141885511823520"
     }
   ]
 }

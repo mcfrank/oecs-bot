@@ -8,7 +8,8 @@
     "56b7211b-0974-4697-ac3f-fa58e6d30b4b",
     "dd89f27c-4dc5-42aa-af61-ba9dcb0ae441",
     "60de8266-57e3-468a-910c-57af732dc728",
-    "c403b8e7-a569-4c42-ad95-ed6c760889e2"
+    "c403b8e7-a569-4c42-ad95-ed6c760889e2",
+    "b4a768b6-34ce-4f5c-a4cb-e2a96cc1b34d"
   ],
   "history": [
     {
@@ -91,6 +92,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mp73hh2yzg24",
       "bluesky_cid": "bafyreiewe3nvzscvni4uraeh7wwe5jqbd3wtciaw5i76s5n2buecmahqlu",
       "tweet_id": "2070504317518553454"
+    },
+    {
+      "id": "b4a768b6-34ce-4f5c-a4cb-e2a96cc1b34d",
+      "slug": "tnwxt05u",
+      "title": "Neuroaesthetics",
+      "date": "2026-06-29T14:29:12.063Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mpgp66jbup2n",
+      "bluesky_cid": "bafyreiebjkxgnr46k64ptbphadel3hi5gxnohjpqliib7mu2xskcjqzcma",
+      "tweet_id": "2071601891776073883"
     }
   ]
 }

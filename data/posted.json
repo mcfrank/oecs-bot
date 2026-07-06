@@ -13,7 +13,8 @@
     "0f3276aa-dd61-45aa-8524-6acd3c0cea84",
     "3614036a-c8f1-4c04-a987-18e5bb1f7d04",
     "d3acfbfb-a27f-463f-96aa-d571c18e0f31",
-    "83209e91-e2a9-4e53-9fcf-1ddc2e520525"
+    "83209e91-e2a9-4e53-9fcf-1ddc2e520525",
+    "25dc99f6-b419-4782-9a8c-9d157cb5f539"
   ],
   "history": [
     {
@@ -141,6 +142,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mpqtox4o672d",
       "bluesky_cid": "bafyreiaa5kcxxfar37dhtxp73roa2nvexbbkmbeywuqjupl5npzdorb6fy",
       "tweet_id": "2073063417380745576"
+    },
+    {
+      "id": "25dc99f6-b419-4782-9a8c-9d157cb5f539",
+      "slug": "tnh82gsj",
+      "title": "Neuroeconomics",
+      "date": "2026-07-06T16:26:48.960Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mpyiywuphc2f",
+      "bluesky_cid": "bafyreidj4rdj4y7saw5bbtcmwsu4c7cwply2pnobgh25ciysqzkfrrwu6e",
+      "tweet_id": "2074168206227308799"
     }
   ]
 }

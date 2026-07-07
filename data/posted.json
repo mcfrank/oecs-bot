@@ -14,7 +14,8 @@
     "3614036a-c8f1-4c04-a987-18e5bb1f7d04",
     "d3acfbfb-a27f-463f-96aa-d571c18e0f31",
     "83209e91-e2a9-4e53-9fcf-1ddc2e520525",
-    "25dc99f6-b419-4782-9a8c-9d157cb5f539"
+    "25dc99f6-b419-4782-9a8c-9d157cb5f539",
+    "2bb20e3c-e5d7-4543-b6a4-9a8024820dd3"
   ],
   "history": [
     {
@@ -151,6 +152,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mpyiywuphc2f",
       "bluesky_cid": "bafyreidj4rdj4y7saw5bbtcmwsu4c7cwply2pnobgh25ciysqzkfrrwu6e",
       "tweet_id": "2074168206227308799"
+    },
+    {
+      "id": "2bb20e3c-e5d7-4543-b6a4-9a8024820dd3",
+      "slug": "zp5n8ivs",
+      "title": "Large Language Models",
+      "date": "2026-07-07T15:46:35.321Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mq2x7whroc2x",
+      "bluesky_cid": "bafyreicki7damv2txqm6s4db4tecbmajzv2at2k2f4e224vvt2dbg3cnsq",
+      "tweet_id": "2074520470716653998"
     }
   ]
 }

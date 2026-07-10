@@ -17,7 +17,8 @@
     "25dc99f6-b419-4782-9a8c-9d157cb5f539",
     "2bb20e3c-e5d7-4543-b6a4-9a8024820dd3",
     "0f654e1a-9f8e-46fe-b7a3-065e6164dc04",
-    "3d8f2887-5482-4353-bbb6-9fdc9008f7e4"
+    "3d8f2887-5482-4353-bbb6-9fdc9008f7e4",
+    "454c0c20-8795-47b5-ad38-6ffe474bc818"
   ],
   "history": [
     {
@@ -181,6 +182,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mq7zauquey2k",
       "bluesky_cid": "bafyreih6ugcpounvssswbuf64f4s64utbjjxp3lncn3hxztflamk7isb4q",
       "tweet_id": "2075250186406772821"
+    },
+    {
+      "id": "454c0c20-8795-47b5-ad38-6ffe474bc818",
+      "slug": "y4e45rq6",
+      "title": "Play",
+      "date": "2026-07-10T15:36:07.805Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mqchzyoqx22c",
+      "bluesky_cid": "bafyreifyfkpfcmmokcuousu7fhwwvb272qwwgccbuwbf2zknh5q2d3nknq",
+      "tweet_id": "2075605002295357579"
     }
   ]
 }

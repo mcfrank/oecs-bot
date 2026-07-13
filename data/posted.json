@@ -18,7 +18,8 @@
     "2bb20e3c-e5d7-4543-b6a4-9a8024820dd3",
     "0f654e1a-9f8e-46fe-b7a3-065e6164dc04",
     "3d8f2887-5482-4353-bbb6-9fdc9008f7e4",
-    "454c0c20-8795-47b5-ad38-6ffe474bc818"
+    "454c0c20-8795-47b5-ad38-6ffe474bc818",
+    "ffa13e9c-415f-4f3b-91fb-5ab18e395d77"
   ],
   "history": [
     {
@@ -191,6 +192,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mqchzyoqx22c",
       "bluesky_cid": "bafyreifyfkpfcmmokcuousu7fhwwvb272qwwgccbuwbf2zknh5q2d3nknq",
       "tweet_id": "2075605002295357579"
+    },
+    {
+      "id": "ffa13e9c-415f-4f3b-91fb-5ab18e395d77",
+      "slug": "3l7ij1tb",
+      "title": "Infant-Directed Speech",
+      "date": "2026-07-13T15:46:30.991Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mqjzzdcaz62f",
+      "bluesky_cid": "bafyreigq7mioxxoi5sxxj543sjlegirihs624pyey6ooyzhm32d6nx6wgy",
+      "tweet_id": "2076694781275537782"
     }
   ]
 }

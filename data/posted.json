@@ -19,7 +19,8 @@
     "0f654e1a-9f8e-46fe-b7a3-065e6164dc04",
     "3d8f2887-5482-4353-bbb6-9fdc9008f7e4",
     "454c0c20-8795-47b5-ad38-6ffe474bc818",
-    "ffa13e9c-415f-4f3b-91fb-5ab18e395d77"
+    "ffa13e9c-415f-4f3b-91fb-5ab18e395d77",
+    "b4a2349c-24b3-4065-afa2-cfd10ca18c0e"
   ],
   "history": [
     {
@@ -201,6 +202,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mqjzzdcaz62f",
       "bluesky_cid": "bafyreigq7mioxxoi5sxxj543sjlegirihs624pyey6ooyzhm32d6nx6wgy",
       "tweet_id": "2076694781275537782"
+    },
+    {
+      "id": "b4a2349c-24b3-4065-afa2-cfd10ca18c0e",
+      "slug": "xohbfbix",
+      "title": "Language Acquisition",
+      "date": "2026-07-14T15:00:07.154Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mqmhvbprjj2c",
+      "bluesky_cid": "bafyreih7c4kazseeg2f72g7m6ueprlokewyryfbbtbrlqj2gt7demrayqq",
+      "tweet_id": "2077045490940833801"
     }
   ]
 }

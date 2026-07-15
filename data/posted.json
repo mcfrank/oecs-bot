@@ -20,7 +20,8 @@
     "3d8f2887-5482-4353-bbb6-9fdc9008f7e4",
     "454c0c20-8795-47b5-ad38-6ffe474bc818",
     "ffa13e9c-415f-4f3b-91fb-5ab18e395d77",
-    "b4a2349c-24b3-4065-afa2-cfd10ca18c0e"
+    "b4a2349c-24b3-4065-afa2-cfd10ca18c0e",
+    "79b53c0b-fc8d-4246-b4f5-0063518042a4"
   ],
   "history": [
     {
@@ -211,6 +212,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mqmhvbprjj2c",
       "bluesky_cid": "bafyreih7c4kazseeg2f72g7m6ueprlokewyryfbbtbrlqj2gt7demrayqq",
       "tweet_id": "2077045490940833801"
+    },
+    {
+      "id": "79b53c0b-fc8d-4246-b4f5-0063518042a4",
+      "slug": "64sucmct",
+      "title": "The Language of Thought Hypothesis",
+      "date": "2026-07-15T14:58:11.175Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mqoyaqgwai2z",
+      "bluesky_cid": "bafyreihxc2rg6arciycyzqja6ddljshtqmda5v5wfc33tfimx4uj733wku",
+      "tweet_id": "2077407391042146653"
     }
   ]
 }

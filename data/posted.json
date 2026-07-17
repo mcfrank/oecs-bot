@@ -22,7 +22,8 @@
     "ffa13e9c-415f-4f3b-91fb-5ab18e395d77",
     "b4a2349c-24b3-4065-afa2-cfd10ca18c0e",
     "79b53c0b-fc8d-4246-b4f5-0063518042a4",
-    "626f4797-e641-4540-bebb-68b50d168b99"
+    "626f4797-e641-4540-bebb-68b50d168b99",
+    "48614063-d2f8-438e-a562-ef8af1660b26"
   ],
   "history": [
     {
@@ -231,6 +232,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mqrjbwqjn22u",
       "bluesky_cid": "bafyreieogb5fmwho7lmsexu2e7quentbfqy4l245kpvah25ycgpuwdehmu",
       "tweet_id": "2077772352390045938"
+    },
+    {
+      "id": "48614063-d2f8-438e-a562-ef8af1660b26",
+      "slug": "sqfksg4p",
+      "title": "Inner Speech",
+      "date": "2026-07-17T14:49:05.349Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mqtyocwp6z2w",
+      "bluesky_cid": "bafyreia74o6f6apr7qpcobkjryedvru36gsxussmjrwqmdug6ij3fxau5a",
+      "tweet_id": "2078129877778313268"
     }
   ]
 }

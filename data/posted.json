@@ -24,7 +24,8 @@
     "79b53c0b-fc8d-4246-b4f5-0063518042a4",
     "626f4797-e641-4540-bebb-68b50d168b99",
     "48614063-d2f8-438e-a562-ef8af1660b26",
-    "53d4d049-1c60-4f53-a2d1-cf2a1e3e5364"
+    "53d4d049-1c60-4f53-a2d1-cf2a1e3e5364",
+    "6b32d916-0c2c-4de7-a79b-590113026741"
   ],
   "history": [
     {
@@ -251,6 +252,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mr3lmriqjv2s",
       "bluesky_cid": "bafyreidb734w6uwch3tajqwhrxrutinnsh4pbmcvsfgn4x43po5fijuevq",
       "tweet_id": "2079224035007946857"
+    },
+    {
+      "id": "6b32d916-0c2c-4de7-a79b-590113026741",
+      "slug": "k9va0mfe",
+      "title": "Experimental Philosophy",
+      "date": "2026-07-21T15:09:21.848Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mr63oas4xo2j",
+      "bluesky_cid": "bafyreibeti6vkggah7ljhbailnht4uwwmod3j2imkunwymh5hjhz6pdyjy",
+      "tweet_id": "2079584531573772705"
     }
   ]
 }

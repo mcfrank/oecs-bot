@@ -27,7 +27,8 @@
     "53d4d049-1c60-4f53-a2d1-cf2a1e3e5364",
     "6b32d916-0c2c-4de7-a79b-590113026741",
     "3c00b537-a1fd-4efc-aa30-c3c5d4c8938a",
-    "80318b2e-6983-4967-a423-88060f9f2095"
+    "80318b2e-6983-4967-a423-88060f9f2095",
+    "3ce3f8af-f925-4dcd-8f37-719779cc33ab"
   ],
   "history": [
     {
@@ -281,6 +282,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrd527fkyb2j",
       "bluesky_cid": "bafyreifcnohsntjfhhlldxllaxc2bo3hb27pafi5dkvoiqbsuiyjhvsrpy",
       "tweet_id": "2080311294104666417"
+    },
+    {
+      "id": "3ce3f8af-f925-4dcd-8f37-719779cc33ab",
+      "slug": "xdqgwrkq",
+      "title": "Attention",
+      "date": "2026-07-24T15:00:55.351Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrfmlwvvts2a",
+      "bluesky_cid": "bafyreidpzeulvttxrlqywb5hmdu6souueawrfqhv6csdgxfzmjzcwt4nza",
+      "tweet_id": "2080669575172309156"
     }
   ]
 }

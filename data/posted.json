@@ -28,7 +28,8 @@
     "6b32d916-0c2c-4de7-a79b-590113026741",
     "3c00b537-a1fd-4efc-aa30-c3c5d4c8938a",
     "80318b2e-6983-4967-a423-88060f9f2095",
-    "3ce3f8af-f925-4dcd-8f37-719779cc33ab"
+    "3ce3f8af-f925-4dcd-8f37-719779cc33ab",
+    "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2"
   ],
   "history": [
     {
@@ -291,6 +292,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrfmlwvvts2a",
       "bluesky_cid": "bafyreidpzeulvttxrlqywb5hmdu6souueawrfqhv6csdgxfzmjzcwt4nza",
       "tweet_id": "2080669575172309156"
+    },
+    {
+      "id": "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
+      "slug": "oye8m8nz",
+      "title": "Generative Modeling",
+      "date": "2026-07-27T15:48:15.558Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrnand5w2j2a",
+      "bluesky_cid": "bafyreibdm67rdjhpjzgmguchyfg4i6pz6lo4pzp75j23q6zeu5nkidib7m",
+      "tweet_id": "2081768647526363389"
     }
   ]
 }

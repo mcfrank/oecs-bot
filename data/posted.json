@@ -29,7 +29,8 @@
     "3c00b537-a1fd-4efc-aa30-c3c5d4c8938a",
     "80318b2e-6983-4967-a423-88060f9f2095",
     "3ce3f8af-f925-4dcd-8f37-719779cc33ab",
-    "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2"
+    "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
+    "eeafc0ed-be57-4a83-a2d2-5b4a0371bb98"
   ],
   "history": [
     {
@@ -301,6 +302,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrnand5w2j2a",
       "bluesky_cid": "bafyreibdm67rdjhpjzgmguchyfg4i6pz6lo4pzp75j23q6zeu5nkidib7m",
       "tweet_id": "2081768647526363389"
+    },
+    {
+      "id": "eeafc0ed-be57-4a83-a2d2-5b4a0371bb98",
+      "slug": "6bvu7f8m",
+      "title": "Cumulative Culture",
+      "date": "2026-07-28T15:26:48.925Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrppvvixwy22",
+      "bluesky_cid": "bafyreiged6ef3qnc567dkhfhpocpuirdre5qfyr5wnbrxykqfpmlssijd4",
+      "tweet_id": "2082125638907973678"
     }
   ]
 }

@@ -30,7 +30,8 @@
     "80318b2e-6983-4967-a423-88060f9f2095",
     "3ce3f8af-f925-4dcd-8f37-719779cc33ab",
     "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
-    "eeafc0ed-be57-4a83-a2d2-5b4a0371bb98"
+    "eeafc0ed-be57-4a83-a2d2-5b4a0371bb98",
+    "2599e324-18c7-4d9e-8de5-ee90b29861e3"
   ],
   "history": [
     {
@@ -311,6 +312,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrppvvixwy22",
       "bluesky_cid": "bafyreiged6ef3qnc567dkhfhpocpuirdre5qfyr5wnbrxykqfpmlssijd4",
       "tweet_id": "2082125638907973678"
+    },
+    {
+      "id": "2599e324-18c7-4d9e-8de5-ee90b29861e3",
+      "slug": "l0z54fpy",
+      "title": "Bilingualism",
+      "date": "2026-07-29T15:12:43.535Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrs7lmorp52t",
+      "bluesky_cid": "bafyreigqr3jjve4rqxnew7qp5youbavutisaxftxtda5igsleanruqfvqi",
+      "tweet_id": "2082484480305144317"
     }
   ]
 }

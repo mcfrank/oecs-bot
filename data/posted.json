@@ -31,7 +31,8 @@
     "3ce3f8af-f925-4dcd-8f37-719779cc33ab",
     "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
     "eeafc0ed-be57-4a83-a2d2-5b4a0371bb98",
-    "2599e324-18c7-4d9e-8de5-ee90b29861e3"
+    "2599e324-18c7-4d9e-8de5-ee90b29861e3",
+    "e3df24b2-6b7f-4236-b2d8-820c0f680d40"
   ],
   "history": [
     {
@@ -321,6 +322,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrs7lmorp52t",
       "bluesky_cid": "bafyreigqr3jjve4rqxnew7qp5youbavutisaxftxtda5igsleanruqfvqi",
       "tweet_id": "2082484480305144317"
+    },
+    {
+      "id": "e3df24b2-6b7f-4236-b2d8-820c0f680d40",
+      "slug": "h07kwvxo",
+      "title": "The Interaction Engine",
+      "date": "2026-07-30T15:17:34.018Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mruqd7fwng2r",
+      "bluesky_cid": "bafyreia5adghhgx7vl2r4wgdopmkclru6iydjmc7pkq47ep26zqsfbm5jy",
+      "tweet_id": "2082848087295340707"
     }
   ]
 }

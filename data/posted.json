@@ -32,7 +32,8 @@
     "ff10c6af-74ab-41dc-98e2-4bd1c84cf7c2",
     "eeafc0ed-be57-4a83-a2d2-5b4a0371bb98",
     "2599e324-18c7-4d9e-8de5-ee90b29861e3",
-    "e3df24b2-6b7f-4236-b2d8-820c0f680d40"
+    "e3df24b2-6b7f-4236-b2d8-820c0f680d40",
+    "a2555670-0e39-420e-ba83-270965dced2b"
   ],
   "history": [
     {
@@ -331,6 +332,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mruqd7fwng2r",
       "bluesky_cid": "bafyreia5adghhgx7vl2r4wgdopmkclru6iydjmc7pkq47ep26zqsfbm5jy",
       "tweet_id": "2082848087295340707"
+    },
+    {
+      "id": "a2555670-0e39-420e-ba83-270965dced2b",
+      "slug": "3wer9d7g",
+      "title": "Information and Misinformation",
+      "date": "2026-07-31T15:24:06.958Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mrxb5tkcwy2q",
+      "bluesky_cid": "bafyreihltashb52fqycnmbl3ld53dvlreforotjc3nktsev6yassyg5x2u",
+      "tweet_id": "2083212122276655599"
     }
   ]
 }

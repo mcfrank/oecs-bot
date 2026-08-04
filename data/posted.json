@@ -34,7 +34,8 @@
     "2599e324-18c7-4d9e-8de5-ee90b29861e3",
     "e3df24b2-6b7f-4236-b2d8-820c0f680d40",
     "a2555670-0e39-420e-ba83-270965dced2b",
-    "e29a27cc-375f-49ef-9936-8de3c0773982"
+    "e29a27cc-375f-49ef-9936-8de3c0773982",
+    "a23858f4-fbfe-44eb-b58d-c513b3fb55bb"
   ],
   "history": [
     {
@@ -351,6 +352,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3ms6tvwm7li2l",
       "bluesky_cid": "bafyreib3dsfs6h2ghdbpscypa5s5qozeaooeeyx32ak34yblxbodel7wuy",
       "tweet_id": "2084305384957956308"
+    },
+    {
+      "id": "a23858f4-fbfe-44eb-b58d-c513b3fb55bb",
+      "slug": "hexmhaj8",
+      "title": "Computational Models of Language Learning",
+      "date": "2026-08-04T15:29:22.447Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3msbdcwddxw27",
+      "bluesky_cid": "bafyreibydt7wfbn3akospbarruseowkskm6d43fknf55uhmjxxjnmug7su",
+      "tweet_id": "2084662997977338308"
     }
   ]
 }

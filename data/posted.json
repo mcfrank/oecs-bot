@@ -40,7 +40,8 @@
     "bfd2f9b7-98f2-4c2a-a8ba-83f4a98a82a5",
     "6ebfd2ab-4897-4c14-9140-d7334ea1f02f",
     "0066e600-ac8e-4c53-a091-e97e353a086b",
-    "e1fde27d-8b09-4968-ac29-c8713b7f1d00"
+    "e1fde27d-8b09-4968-ac29-c8713b7f1d00",
+    "2780596f-296e-42ce-a681-0e8032a10f3d"
   ],
   "history": [
     {
@@ -411,6 +412,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mssssnzult2n",
       "bluesky_cid": "bafyreiaclpiub7y2dvrhy7sskbilozj3cceggtodi33lbhpn5y6pklar4e",
       "tweet_id": "2087182725900071108"
+    },
+    {
+      "id": "2780596f-296e-42ce-a681-0e8032a10f3d",
+      "slug": "cmg9r89u",
+      "title": "Computational Theory of Mind",
+      "date": "2026-08-12T14:22:15.699Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3msvdcbsipq2u",
+      "bluesky_cid": "bafyreibr4lkmpjeuz5mkuqkmh5xtitgyj6tcyiia4tyviz3dltnnmvs3zy",
+      "tweet_id": "2087545211018788996"
     }
   ]
 }

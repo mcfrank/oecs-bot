@@ -42,7 +42,8 @@
     "0066e600-ac8e-4c53-a091-e97e353a086b",
     "e1fde27d-8b09-4968-ac29-c8713b7f1d00",
     "2780596f-296e-42ce-a681-0e8032a10f3d",
-    "6dfbcb34-9e88-4c6f-acfe-da2cea34e63c"
+    "6dfbcb34-9e88-4c6f-acfe-da2cea34e63c",
+    "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c"
   ],
   "history": [
     {
@@ -431,6 +432,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3msxtvaowjv2g",
       "bluesky_cid": "bafyreias4sidfwl2kkp54f4i4i4le4xslrbu4lqf6tczsv7eb2osasgzyq",
       "tweet_id": "2087908169452339228"
+    },
+    {
+      "id": "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c",
+      "slug": "3r6pj6pn",
+      "title": "Open Science",
+      "date": "2026-08-14T14:17:46.249Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mt2dy3kvml2d",
+      "bluesky_cid": "bafyreih47uoc7dsb6ahu3qrgioc34dma345espsfqu6fi5ox6iup4cojle",
+      "tweet_id": "2088268855961588206"
     }
   ]
 }

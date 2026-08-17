@@ -43,7 +43,8 @@
     "e1fde27d-8b09-4968-ac29-c8713b7f1d00",
     "2780596f-296e-42ce-a681-0e8032a10f3d",
     "6dfbcb34-9e88-4c6f-acfe-da2cea34e63c",
-    "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c"
+    "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c",
+    "34857b04-96a7-46a1-bf96-8ca767a7d16a"
   ],
   "history": [
     {
@@ -441,6 +442,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mt2dy3kvml2d",
       "bluesky_cid": "bafyreih47uoc7dsb6ahu3qrgioc34dma345espsfqu6fi5ox6iup4cojle",
       "tweet_id": "2088268855961588206"
+    },
+    {
+      "id": "34857b04-96a7-46a1-bf96-8ca767a7d16a",
+      "slug": "18miikqb",
+      "title": "Language Evolution",
+      "date": "2026-08-17T13:44:12.792Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtbtitsiux2c",
+      "bluesky_cid": "bafyreia3uy3tzqbxod74mu7snmp6jyfinovuugs27dcgf77fc34cgkzfxu",
+      "tweet_id": "2089347575073960003"
     }
   ]
 }

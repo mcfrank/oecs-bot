@@ -44,7 +44,8 @@
     "2780596f-296e-42ce-a681-0e8032a10f3d",
     "6dfbcb34-9e88-4c6f-acfe-da2cea34e63c",
     "cdacaf45-af4b-4f72-bf8a-c5ab07460f3c",
-    "34857b04-96a7-46a1-bf96-8ca767a7d16a"
+    "34857b04-96a7-46a1-bf96-8ca767a7d16a",
+    "46da0cd7-0be7-4c3f-8193-379a283b4577"
   ],
   "history": [
     {
@@ -451,6 +452,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtbtitsiux2c",
       "bluesky_cid": "bafyreia3uy3tzqbxod74mu7snmp6jyfinovuugs27dcgf77fc34cgkzfxu",
       "tweet_id": "2089347575073960003"
+    },
+    {
+      "id": "46da0cd7-0be7-4c3f-8193-379a283b4577",
+      "slug": "9ieavrmm",
+      "title": "Developmental Cognitive Neuroscience",
+      "date": "2026-08-18T13:48:27.769Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtee7ecry42u",
+      "bluesky_cid": "bafyreiedhlbmx34exvinznxxif4txk5zg6b4r7hxtatnq3wo4fjsy2i2pa",
+      "tweet_id": "2089711031656608023"
     }
   ]
 }

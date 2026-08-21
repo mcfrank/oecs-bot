@@ -47,7 +47,8 @@
     "34857b04-96a7-46a1-bf96-8ca767a7d16a",
     "46da0cd7-0be7-4c3f-8193-379a283b4577",
     "6673bc2b-aec0-4576-912d-a87c37fcf7e5",
-    "417ea271-01cb-4fa0-992a-9814a2cfa75a"
+    "417ea271-01cb-4fa0-992a-9814a2cfa75a",
+    "96cf440a-1191-42e3-892f-9d0bcf10bd47"
   ],
   "history": [
     {
@@ -481,6 +482,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtjfcfwvgk2s",
       "bluesky_cid": "bafyreidqfa6prl2qkfjiqqi6dv5ih3hlyzhukfhjuyipx3cp3itxsv5b7u",
       "tweet_id": "2090436540094943482"
+    },
+    {
+      "id": "96cf440a-1191-42e3-892f-9d0bcf10bd47",
+      "slug": "wxnjre8g",
+      "title": "Reasoning and Argumentation",
+      "date": "2026-08-21T13:50:25.364Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtlvpnfsmi2s",
+      "bluesky_cid": "bafyreibbhsiscbrdfw4ea6pvtbmf72yuw4kzpmzxsgkb4jvvru3r2egupa",
+      "tweet_id": "2090798690814308670"
     }
   ]
 }

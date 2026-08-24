@@ -48,7 +48,8 @@
     "46da0cd7-0be7-4c3f-8193-379a283b4577",
     "6673bc2b-aec0-4576-912d-a87c37fcf7e5",
     "417ea271-01cb-4fa0-992a-9814a2cfa75a",
-    "96cf440a-1191-42e3-892f-9d0bcf10bd47"
+    "96cf440a-1191-42e3-892f-9d0bcf10bd47",
+    "112fbf72-31c7-4d25-b533-93f796f483e3"
   ],
   "history": [
     {
@@ -491,6 +492,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtlvpnfsmi2s",
       "bluesky_cid": "bafyreibbhsiscbrdfw4ea6pvtbmf72yuw4kzpmzxsgkb4jvvru3r2egupa",
       "tweet_id": "2090798690814308670"
+    },
+    {
+      "id": "112fbf72-31c7-4d25-b533-93f796f483e3",
+      "slug": "d16msun2",
+      "title": "Episodic Future Thinking",
+      "date": "2026-08-24T13:55:38.294Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtthfptpju2u",
+      "bluesky_cid": "bafyreigcrcikrlur3c4tis6zyyxagzsb5cjkegnsivnvm6tnmyqvdsxqoq",
+      "tweet_id": "2091887165080743948"
     }
   ]
 }

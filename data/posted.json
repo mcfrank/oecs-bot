@@ -50,7 +50,8 @@
     "417ea271-01cb-4fa0-992a-9814a2cfa75a",
     "96cf440a-1191-42e3-892f-9d0bcf10bd47",
     "112fbf72-31c7-4d25-b533-93f796f483e3",
-    "515b2685-223a-4bc2-add6-76b934f5c974"
+    "515b2685-223a-4bc2-add6-76b934f5c974",
+    "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e"
   ],
   "history": [
     {
@@ -511,6 +512,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtvxtsie7c2f",
       "bluesky_cid": "bafyreibphm2zkyki2vqidbp3e62vejrkbb6nhuoxwqjio4bekg7frtba6a",
       "tweet_id": "2092249436453777780"
+    },
+    {
+      "id": "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e",
+      "slug": "lurik5dk",
+      "title": "Rational Analysis",
+      "date": "2026-08-26T13:57:50.710Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtyihisrmr25",
+      "bluesky_cid": "bafyreie5v3cyj7betbgw22ppmtbcud3dvuajp3sknhylrq4bvsdbewqenm",
+      "tweet_id": "2092612495144104332"
     }
   ]
 }

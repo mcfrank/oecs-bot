@@ -51,7 +51,8 @@
     "96cf440a-1191-42e3-892f-9d0bcf10bd47",
     "112fbf72-31c7-4d25-b533-93f796f483e3",
     "515b2685-223a-4bc2-add6-76b934f5c974",
-    "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e"
+    "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e",
+    "2bb82513-6a81-4e06-8455-bec22a54c118"
   ],
   "history": [
     {
@@ -521,6 +522,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mtyihisrmr25",
       "bluesky_cid": "bafyreie5v3cyj7betbgw22ppmtbcud3dvuajp3sknhylrq4bvsdbewqenm",
       "tweet_id": "2092612495144104332"
+    },
+    {
+      "id": "2bb82513-6a81-4e06-8455-bec22a54c118",
+      "slug": "lug9d2y7",
+      "title": "Ad Hoc Categories",
+      "date": "2026-08-27T22:54:25.407Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mu3wvvuyfl2d",
+      "bluesky_cid": "bafyreiecau2hhxse6ka3yxe2ubq2jntrfuvkjmhse2mfuw3sukju53x5fe",
+      "tweet_id": "2093109919742300341"
     }
   ]
 }

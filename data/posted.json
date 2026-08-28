@@ -52,7 +52,8 @@
     "112fbf72-31c7-4d25-b533-93f796f483e3",
     "515b2685-223a-4bc2-add6-76b934f5c974",
     "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e",
-    "2bb82513-6a81-4e06-8455-bec22a54c118"
+    "2bb82513-6a81-4e06-8455-bec22a54c118",
+    "7b88a436-ed76-495c-81b6-1ed4c8983382"
   ],
   "history": [
     {
@@ -531,6 +532,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mu3wvvuyfl2d",
       "bluesky_cid": "bafyreiecau2hhxse6ka3yxe2ubq2jntrfuvkjmhse2mfuw3sukju53x5fe",
       "tweet_id": "2093109919742300341"
+    },
+    {
+      "id": "7b88a436-ed76-495c-81b6-1ed4c8983382",
+      "slug": "15vuwt8a",
+      "title": "Sense of Agency",
+      "date": "2026-08-28T22:59:04.323Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mu6hn5vndy25",
+      "bluesky_cid": "bafyreibfgcc64cxy3khih326mx357bacecvmadv4qdz52mi4q6boqmy57e",
+      "tweet_id": "2093473481488839123"
     }
   ]
 }

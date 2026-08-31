@@ -53,7 +53,8 @@
     "515b2685-223a-4bc2-add6-76b934f5c974",
     "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e",
     "2bb82513-6a81-4e06-8455-bec22a54c118",
-    "7b88a436-ed76-495c-81b6-1ed4c8983382"
+    "7b88a436-ed76-495c-81b6-1ed4c8983382",
+    "afbd5860-d526-4a7b-8e74-d1e964bd919a"
   ],
   "history": [
     {
@@ -541,6 +542,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mu6hn5vndy25",
       "bluesky_cid": "bafyreibfgcc64cxy3khih326mx357bacecvmadv4qdz52mi4q6boqmy57e",
       "tweet_id": "2093473481488839123"
+    },
+    {
+      "id": "afbd5860-d526-4a7b-8e74-d1e964bd919a",
+      "slug": "k8krmjgg",
+      "title": "Modularity",
+      "date": "2026-08-31T19:28:20.789Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mufnb3t3yn25",
+      "bluesky_cid": "bafyreicywe2slzi6ciatlqgry3ux6hslyysz6axwijgthusvgsfzm6xfw4",
+      "tweet_id": "2094507609458122807"
     }
   ]
 }

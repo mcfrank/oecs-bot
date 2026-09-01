@@ -54,7 +54,8 @@
     "b3b3e5e7-1c84-4f13-a066-86b4c5fee26e",
     "2bb82513-6a81-4e06-8455-bec22a54c118",
     "7b88a436-ed76-495c-81b6-1ed4c8983382",
-    "afbd5860-d526-4a7b-8e74-d1e964bd919a"
+    "afbd5860-d526-4a7b-8e74-d1e964bd919a",
+    "dcf0298d-8b4e-4300-b150-9eef5c178eda"
   ],
   "history": [
     {
@@ -551,6 +552,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mufnb3t3yn25",
       "bluesky_cid": "bafyreicywe2slzi6ciatlqgry3ux6hslyysz6axwijgthusvgsfzm6xfw4",
       "tweet_id": "2094507609458122807"
+    },
+    {
+      "id": "dcf0298d-8b4e-4300-b150-9eef5c178eda",
+      "slug": "epclh9no",
+      "title": "Literacy",
+      "date": "2026-09-01T17:16:54.661Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3muhwez2zmd2q",
+      "bluesky_cid": "bafyreicue4kzhmxhc4ugoe2jd6nnmowyrb7rz6v5hrqav5ojtqqd2sdp6q",
+      "tweet_id": "2094836924980547957"
     }
   ]
 }

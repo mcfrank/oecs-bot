@@ -55,7 +55,8 @@
     "2bb82513-6a81-4e06-8455-bec22a54c118",
     "7b88a436-ed76-495c-81b6-1ed4c8983382",
     "afbd5860-d526-4a7b-8e74-d1e964bd919a",
-    "dcf0298d-8b4e-4300-b150-9eef5c178eda"
+    "dcf0298d-8b4e-4300-b150-9eef5c178eda",
+    "7a7ee600-a95d-4e45-a3ff-c2815d27ea4c"
   ],
   "history": [
     {
@@ -561,6 +562,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3muhwez2zmd2q",
       "bluesky_cid": "bafyreicue4kzhmxhc4ugoe2jd6nnmowyrb7rz6v5hrqav5ojtqqd2sdp6q",
       "tweet_id": "2094836924980547957"
+    },
+    {
+      "id": "7a7ee600-a95d-4e45-a3ff-c2815d27ea4c",
+      "slug": "nsjk8k6v",
+      "title": "Hearing",
+      "date": "2026-09-02T17:06:00.106Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mukgafqb252b",
+      "bluesky_cid": "bafyreiaukerlui7exbmkchrmt7e44dqphspwf62sjwuycyyv25nclrgxyy",
+      "tweet_id": "2095196567217283177"
     }
   ]
 }

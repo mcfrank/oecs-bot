@@ -56,7 +56,8 @@
     "7b88a436-ed76-495c-81b6-1ed4c8983382",
     "afbd5860-d526-4a7b-8e74-d1e964bd919a",
     "dcf0298d-8b4e-4300-b150-9eef5c178eda",
-    "7a7ee600-a95d-4e45-a3ff-c2815d27ea4c"
+    "7a7ee600-a95d-4e45-a3ff-c2815d27ea4c",
+    "54c9be0b-4371-4152-b4b0-df99910a552c"
   ],
   "history": [
     {
@@ -571,6 +572,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mukgafqb252b",
       "bluesky_cid": "bafyreiaukerlui7exbmkchrmt7e44dqphspwf62sjwuycyyv25nclrgxyy",
       "tweet_id": "2095196567217283177"
+    },
+    {
+      "id": "54c9be0b-4371-4152-b4b0-df99910a552c",
+      "slug": "suwgvzqg",
+      "title": "Primate Communication",
+      "date": "2026-09-03T16:59:59.189Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mumwekut4z2k",
+      "bluesky_cid": "bafyreifqz6ceipt6p3gkix3xb47sodxtt37c5lsageiwnh77g6fmjr4u4e",
+      "tweet_id": "2095557437181018389"
     }
   ]
 }

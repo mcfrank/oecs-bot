@@ -57,7 +57,8 @@
     "afbd5860-d526-4a7b-8e74-d1e964bd919a",
     "dcf0298d-8b4e-4300-b150-9eef5c178eda",
     "7a7ee600-a95d-4e45-a3ff-c2815d27ea4c",
-    "54c9be0b-4371-4152-b4b0-df99910a552c"
+    "54c9be0b-4371-4152-b4b0-df99910a552c",
+    "0276fa5e-4671-4e70-a248-1ca87802602a"
   ],
   "history": [
     {
@@ -581,6 +582,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mumwekut4z2k",
       "bluesky_cid": "bafyreifqz6ceipt6p3gkix3xb47sodxtt37c5lsageiwnh77g6fmjr4u4e",
       "tweet_id": "2095557437181018389"
+    },
+    {
+      "id": "0276fa5e-4671-4e70-a248-1ca87802602a",
+      "slug": "bc1nglmr",
+      "title": "Social Cognitive Neuroscience",
+      "date": "2026-09-04T16:48:47.744Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mupg7hwi3h2a",
+      "bluesky_cid": "bafyreietz2q3apadtxuj7emmsfgdy7hxlx5guivowkxkl3y5qy7kidamri",
+      "tweet_id": "2095917007816499690"
     }
   ]
 }

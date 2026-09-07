@@ -58,7 +58,8 @@
     "dcf0298d-8b4e-4300-b150-9eef5c178eda",
     "7a7ee600-a95d-4e45-a3ff-c2815d27ea4c",
     "54c9be0b-4371-4152-b4b0-df99910a552c",
-    "0276fa5e-4671-4e70-a248-1ca87802602a"
+    "0276fa5e-4671-4e70-a248-1ca87802602a",
+    "a685b0e0-9ff7-4d84-afb6-a4c5cc0d030f"
   ],
   "history": [
     {
@@ -591,6 +592,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mupg7hwi3h2a",
       "bluesky_cid": "bafyreietz2q3apadtxuj7emmsfgdy7hxlx5guivowkxkl3y5qy7kidamri",
       "tweet_id": "2095917007816499690"
+    },
+    {
+      "id": "a685b0e0-9ff7-4d84-afb6-a4c5cc0d030f",
+      "slug": "1k3fjvin",
+      "title": "Introspection",
+      "date": "2026-09-07T18:12:09.851Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mux4bd3oe42b",
+      "bluesky_cid": "bafyreidcyhvuorlewhkyojwop6tnxd4jndfjx5yjfh6lxmfqsxe5q3twdi",
+      "tweet_id": "2097025154014433652"
     }
   ]
 }

@@ -59,7 +59,8 @@
     "7a7ee600-a95d-4e45-a3ff-c2815d27ea4c",
     "54c9be0b-4371-4152-b4b0-df99910a552c",
     "0276fa5e-4671-4e70-a248-1ca87802602a",
-    "a685b0e0-9ff7-4d84-afb6-a4c5cc0d030f"
+    "a685b0e0-9ff7-4d84-afb6-a4c5cc0d030f",
+    "84963756-458a-4c3c-946f-6e7add7869a0"
   ],
   "history": [
     {
@@ -601,6 +602,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mux4bd3oe42b",
       "bluesky_cid": "bafyreidcyhvuorlewhkyojwop6tnxd4jndfjx5yjfh6lxmfqsxe5q3twdi",
       "tweet_id": "2097025154014433652"
+    },
+    {
+      "id": "84963756-458a-4c3c-946f-6e7add7869a0",
+      "slug": "h6pgywr9",
+      "title": "Interoception",
+      "date": "2026-09-08T17:12:31.170Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3muzjflruqr2n",
+      "bluesky_cid": "bafyreiepcviq4wbuqi2yuxeubgatpihk74swudht3d7x7otvb3ulx2krye",
+      "tweet_id": "2097372533393645832"
     }
   ]
 }

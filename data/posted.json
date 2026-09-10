@@ -61,7 +61,8 @@
     "0276fa5e-4671-4e70-a248-1ca87802602a",
     "a685b0e0-9ff7-4d84-afb6-a4c5cc0d030f",
     "84963756-458a-4c3c-946f-6e7add7869a0",
-    "4ea61aa9-0cfd-43ce-805a-856b26b67be8"
+    "4ea61aa9-0cfd-43ce-805a-856b26b67be8",
+    "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9"
   ],
   "history": [
     {
@@ -621,6 +622,15 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mv3zjfw3ie2h",
       "bluesky_cid": "bafyreihcwbbe4riiqdpzetfa6lf3memr5dqd5ymkrsooo4bso4qzic3p2y",
       "tweet_id": "2097733357019005023"
+    },
+    {
+      "id": "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9",
+      "slug": "h0rivqh3",
+      "title": "Face Perception",
+      "date": "2026-09-10T16:57:11.077Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mv6jhz2s5w2c",
+      "bluesky_cid": "bafyreicbwbfkvijjvu5w7m2244bp2ntaszs2tfmchxhsgukh2st2n4epsi",
+      "tweet_id": "2098093448876249312"
     }
   ]
 }

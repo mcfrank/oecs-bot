@@ -62,7 +62,8 @@
     "a685b0e0-9ff7-4d84-afb6-a4c5cc0d030f",
     "84963756-458a-4c3c-946f-6e7add7869a0",
     "4ea61aa9-0cfd-43ce-805a-856b26b67be8",
-    "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9"
+    "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9",
+    "2760bd31-093d-407a-9b2d-80c8cfb6f478"
   ],
   "history": [
     {
@@ -631,6 +632,14 @@
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mv6jhz2s5w2c",
       "bluesky_cid": "bafyreicbwbfkvijjvu5w7m2244bp2ntaszs2tfmchxhsgukh2st2n4epsi",
       "tweet_id": "2098093448876249312"
+    },
+    {
+      "id": "2760bd31-093d-407a-9b2d-80c8cfb6f478",
+      "slug": "rr0bjsli",
+      "title": "Uniquely Human Cognition",
+      "date": "2026-09-11T16:59:06.461Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mvb22ehxig2s",
+      "bluesky_cid": "bafyreid6g5pimodx6q4jnrpf75gszzrb63u6yxyeqdul7axuhrt5uewlcq"
     }
   ]
 }

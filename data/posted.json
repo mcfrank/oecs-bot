@@ -64,7 +64,8 @@
     "4ea61aa9-0cfd-43ce-805a-856b26b67be8",
     "57de91a4-6aac-4561-9cf2-6ce86fa6e7a9",
     "2760bd31-093d-407a-9b2d-80c8cfb6f478",
-    "704d8d25-657f-474e-ac0b-55070309fc9e"
+    "704d8d25-657f-474e-ac0b-55070309fc9e",
+    "3bef4aa1-d28b-43f4-8a1e-1e4567399130"
   ],
   "history": [
     {
@@ -649,6 +650,14 @@
       "date": "2026-09-14T18:30:05.152Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mviqjszer42h",
       "bluesky_cid": "bafyreifko7qe3y6aq6u7o2x5gw5wyqbopivb7tnhslsmz3by7imqjb7uau"
+    },
+    {
+      "id": "3bef4aa1-d28b-43f4-8a1e-1e4567399130",
+      "slug": "1s77iad9",
+      "title": "Unconscious Inference",
+      "date": "2026-09-15T17:37:33.769Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mvl62srtlf2c",
+      "bluesky_cid": "bafyreiae6pbhyb6trwppst3pahyls2ez7nocr3ypk3vlndevm2glmyq2jy"
     }
   ]
 }

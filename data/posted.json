@@ -67,7 +67,8 @@
     "704d8d25-657f-474e-ac0b-55070309fc9e",
     "3bef4aa1-d28b-43f4-8a1e-1e4567399130",
     "db4c7c20-e5dc-4d2f-8284-1865a5c88fe0",
-    "2aa90758-22ca-4c23-a61f-08f181b93fb2"
+    "2aa90758-22ca-4c23-a61f-08f181b93fb2",
+    "95725785-2177-4106-b38d-fc693234f915"
   ],
   "history": [
     {
@@ -676,6 +677,14 @@
       "date": "2026-09-17T17:34:40.781Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mvq6titdvt2n",
       "bluesky_cid": "bafyreiahs7nb3x2fuehmepgvosid77ssazef4yxsn2poem3e6giezomsem"
+    },
+    {
+      "id": "95725785-2177-4106-b38d-fc693234f915",
+      "slug": "chloq7l9",
+      "title": "Skepticism",
+      "date": "2026-09-18T17:01:19.416Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mvsngrijit2y",
+      "bluesky_cid": "bafyreiek6nugqcggjvefyjh2jjphtr6phelc2tpqy5lnartdoiu6sbu3ge"
     }
   ]
 }

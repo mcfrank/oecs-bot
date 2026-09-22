@@ -69,7 +69,8 @@
     "db4c7c20-e5dc-4d2f-8284-1865a5c88fe0",
     "2aa90758-22ca-4c23-a61f-08f181b93fb2",
     "95725785-2177-4106-b38d-fc693234f915",
-    "0de13fd2-8cde-4c9c-9e5c-2d37551bf279"
+    "0de13fd2-8cde-4c9c-9e5c-2d37551bf279",
+    "bc3a43dd-6cd2-4cb3-9b7f-6205e3409598"
   ],
   "history": [
     {
@@ -694,6 +695,14 @@
       "date": "2026-09-21T18:35:24.431Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mw2e3r5gxq2y",
       "bluesky_cid": "bafyreigl44rd72kviqjkdnu6kmpw5knokm7iir525pmibpsc4r7ueemxrm"
+    },
+    {
+      "id": "bc3a43dd-6cd2-4cb3-9b7f-6205e3409598",
+      "slug": "bg66cvhq",
+      "title": "Vestibular System",
+      "date": "2026-09-22T17:35:51.834Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mw4ra7tt6e2h",
+      "bluesky_cid": "bafyreibwsukjl4ovsnzhpz5bru32h4dwacoeynx2sewp46aerdv32rvcyu"
     }
   ]
 }

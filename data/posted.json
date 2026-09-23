@@ -70,7 +70,8 @@
     "2aa90758-22ca-4c23-a61f-08f181b93fb2",
     "95725785-2177-4106-b38d-fc693234f915",
     "0de13fd2-8cde-4c9c-9e5c-2d37551bf279",
-    "bc3a43dd-6cd2-4cb3-9b7f-6205e3409598"
+    "bc3a43dd-6cd2-4cb3-9b7f-6205e3409598",
+    "3d4df41d-8ccf-43be-a67c-369f1050caaa"
   ],
   "history": [
     {
@@ -703,6 +704,14 @@
       "date": "2026-09-22T17:35:51.834Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mw4ra7tt6e2h",
       "bluesky_cid": "bafyreibwsukjl4ovsnzhpz5bru32h4dwacoeynx2sewp46aerdv32rvcyu"
+    },
+    {
+      "id": "3d4df41d-8ccf-43be-a67c-369f1050caaa",
+      "slug": "t5j0qv3d",
+      "title": "Neuroplasticity",
+      "date": "2026-09-23T17:47:59.092Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mw7cet2jeo2y",
+      "bluesky_cid": "bafyreicdjlwqasmmmjnbiese4ansywkqmqzek5n5lhegq2l7xojspfp4m4"
     }
   ]
 }

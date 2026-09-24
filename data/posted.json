@@ -71,7 +71,8 @@
     "95725785-2177-4106-b38d-fc693234f915",
     "0de13fd2-8cde-4c9c-9e5c-2d37551bf279",
     "bc3a43dd-6cd2-4cb3-9b7f-6205e3409598",
-    "3d4df41d-8ccf-43be-a67c-369f1050caaa"
+    "3d4df41d-8ccf-43be-a67c-369f1050caaa",
+    "b076f599-1e63-48f6-979f-2f7b2d43bdae"
   ],
   "history": [
     {
@@ -712,6 +713,14 @@
       "date": "2026-09-23T17:47:59.092Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mw7cet2jeo2y",
       "bluesky_cid": "bafyreicdjlwqasmmmjnbiese4ansywkqmqzek5n5lhegq2l7xojspfp4m4"
+    },
+    {
+      "id": "b076f599-1e63-48f6-979f-2f7b2d43bdae",
+      "slug": "e9aapok3",
+      "title": "Language Production",
+      "date": "2026-09-24T17:49:10.913Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwbsvursre2k",
+      "bluesky_cid": "bafyreibmoxyefmm5fnec7u7h7gy7ltwqkn24hzsxjk2p6gyawxjp5pxiom"
     }
   ]
 }

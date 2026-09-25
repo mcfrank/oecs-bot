@@ -72,7 +72,8 @@
     "0de13fd2-8cde-4c9c-9e5c-2d37551bf279",
     "bc3a43dd-6cd2-4cb3-9b7f-6205e3409598",
     "3d4df41d-8ccf-43be-a67c-369f1050caaa",
-    "b076f599-1e63-48f6-979f-2f7b2d43bdae"
+    "b076f599-1e63-48f6-979f-2f7b2d43bdae",
+    "0aea8c7d-88e4-4b66-b3b2-72eec31667e1"
   ],
   "history": [
     {
@@ -721,6 +722,14 @@
       "date": "2026-09-24T17:49:10.913Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwbsvursre2k",
       "bluesky_cid": "bafyreibmoxyefmm5fnec7u7h7gy7ltwqkn24hzsxjk2p6gyawxjp5pxiom"
+    },
+    {
+      "id": "0aea8c7d-88e4-4b66-b3b2-72eec31667e1",
+      "slug": "3daueu81",
+      "title": "Consciousness",
+      "date": "2026-09-25T17:52:56.218Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwedlja5il2i",
+      "bluesky_cid": "bafyreif3ysfsokihfugxmftppb7eqkqnmjh2av4puthkcfijzk3luppvu4"
     }
   ]
 }

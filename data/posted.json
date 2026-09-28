@@ -73,7 +73,8 @@
     "bc3a43dd-6cd2-4cb3-9b7f-6205e3409598",
     "3d4df41d-8ccf-43be-a67c-369f1050caaa",
     "b076f599-1e63-48f6-979f-2f7b2d43bdae",
-    "0aea8c7d-88e4-4b66-b3b2-72eec31667e1"
+    "0aea8c7d-88e4-4b66-b3b2-72eec31667e1",
+    "9793d1ae-c726-4096-bf96-edecba841ed5"
   ],
   "history": [
     {
@@ -730,6 +731,14 @@
       "date": "2026-09-25T17:52:56.218Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwedlja5il2i",
       "bluesky_cid": "bafyreif3ysfsokihfugxmftppb7eqkqnmjh2av4puthkcfijzk3luppvu4"
+    },
+    {
+      "id": "9793d1ae-c726-4096-bf96-edecba841ed5",
+      "slug": "3bgjh908",
+      "title": "Neuroscience of Language",
+      "date": "2026-09-28T20:04:33.194Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwm4dmo35u2m",
+      "bluesky_cid": "bafyreighcmfkvy5avlktti5e7g66mkj2la6hipcgqln73lcoj6dan753im"
     }
   ]
 }

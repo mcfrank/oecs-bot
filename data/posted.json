@@ -75,7 +75,8 @@
     "b076f599-1e63-48f6-979f-2f7b2d43bdae",
     "0aea8c7d-88e4-4b66-b3b2-72eec31667e1",
     "9793d1ae-c726-4096-bf96-edecba841ed5",
-    "46176256-2f06-4b0b-8586-ce86915c50c0"
+    "46176256-2f06-4b0b-8586-ce86915c50c0",
+    "4d8ccc37-8923-424b-95bf-242a22a670ad"
   ],
   "history": [
     {
@@ -748,6 +749,14 @@
       "date": "2026-09-29T18:33:20.989Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwohphbj272q",
       "bluesky_cid": "bafyreicetq5r3ikw7fldhhgdmqy54nctadxh5hv2e3w4tex3kchpfejsv4"
+    },
+    {
+      "id": "4d8ccc37-8923-424b-95bf-242a22a670ad",
+      "slug": "qwrz95aw",
+      "title": "Affective Neuroscience",
+      "date": "2026-09-30T18:21:16.838Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwqxis7x5a2i",
+      "bluesky_cid": "bafyreihaunphvexyoth2atohtsql3tqlbhc2qogoa5jf53gtg4v5l2lpje"
     }
   ]
 }

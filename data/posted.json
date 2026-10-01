@@ -76,7 +76,8 @@
     "0aea8c7d-88e4-4b66-b3b2-72eec31667e1",
     "9793d1ae-c726-4096-bf96-edecba841ed5",
     "46176256-2f06-4b0b-8586-ce86915c50c0",
-    "4d8ccc37-8923-424b-95bf-242a22a670ad"
+    "4d8ccc37-8923-424b-95bf-242a22a670ad",
+    "84dbfd75-18e3-4044-b7ef-3232e2f251dd"
   ],
   "history": [
     {
@@ -757,6 +758,14 @@
       "date": "2026-09-30T18:21:16.838Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwqxis7x5a2i",
       "bluesky_cid": "bafyreihaunphvexyoth2atohtsql3tqlbhc2qogoa5jf53gtg4v5l2lpje"
+    },
+    {
+      "id": "84dbfd75-18e3-4044-b7ef-3232e2f251dd",
+      "slug": "aj80dki5",
+      "title": "Human Rationality in Research",
+      "date": "2026-10-01T18:47:09.439Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwtjfy3ow42f",
+      "bluesky_cid": "bafyreicyywmqyzlsc2s4np2jinjmnf5kvmcmswhurgia56jqryug4l4oi4"
     }
   ]
 }

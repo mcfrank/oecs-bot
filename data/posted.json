@@ -78,7 +78,8 @@
     "46176256-2f06-4b0b-8586-ce86915c50c0",
     "4d8ccc37-8923-424b-95bf-242a22a670ad",
     "84dbfd75-18e3-4044-b7ef-3232e2f251dd",
-    "7a74eed8-8807-485d-ae13-188b418b794f"
+    "7a74eed8-8807-485d-ae13-188b418b794f",
+    "44a6d380-736b-468d-9999-d74c5a7a7ae9"
   ],
   "history": [
     {
@@ -775,6 +776,14 @@
       "date": "2026-10-02T18:19:28.991Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mwvydgcpmh2j",
       "bluesky_cid": "bafyreifoxdwg6dr7pwme2b2kdhx2oniiajtvnyucdqfxegidtvuixih75u"
+    },
+    {
+      "id": "44a6d380-736b-468d-9999-d74c5a7a7ae9",
+      "slug": "2t4l1ysv",
+      "title": "Cultural Universals",
+      "date": "2026-10-05T21:13:45.284Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mx5thsl7cp2r",
+      "bluesky_cid": "bafyreifazzub5h6e62m2tkkbchlkya5gumexsuv6lvrcqng6pw6fiaavju"
     }
   ]
 }

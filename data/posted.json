@@ -80,7 +80,8 @@
     "84dbfd75-18e3-4044-b7ef-3232e2f251dd",
     "7a74eed8-8807-485d-ae13-188b418b794f",
     "44a6d380-736b-468d-9999-d74c5a7a7ae9",
-    "4f342e36-0806-479e-a2db-c6cc96eebe1e"
+    "4f342e36-0806-479e-a2db-c6cc96eebe1e",
+    "36d1ca92-5159-42f6-8fa6-ab7908b8e4e0"
   ],
   "history": [
     {
@@ -793,6 +794,14 @@
       "date": "2026-10-06T18:51:57.646Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxa3z6f3bl2m",
       "bluesky_cid": "bafyreihef52jnczcdrcn6pbomnbshn7bmfx26wlgzbyoqbljstq55jgojm"
+    },
+    {
+      "id": "36d1ca92-5159-42f6-8fa6-ab7908b8e4e0",
+      "slug": "k2ek981x",
+      "title": "Reinforcement Learning",
+      "date": "2026-10-07T19:17:09.564Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxcnv6aufk2j",
+      "bluesky_cid": "bafyreig4ema2huxmn3ezvvl6osqv6awma7xdsfpc3z2yrsrhvnb6ow2dtq"
     }
   ]
 }

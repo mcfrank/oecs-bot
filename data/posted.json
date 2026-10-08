@@ -81,7 +81,8 @@
     "7a74eed8-8807-485d-ae13-188b418b794f",
     "44a6d380-736b-468d-9999-d74c5a7a7ae9",
     "4f342e36-0806-479e-a2db-c6cc96eebe1e",
-    "36d1ca92-5159-42f6-8fa6-ab7908b8e4e0"
+    "36d1ca92-5159-42f6-8fa6-ab7908b8e4e0",
+    "ce72080b-51b1-4cb6-8bc2-e323215d7d4e"
   ],
   "history": [
     {
@@ -802,6 +803,14 @@
       "date": "2026-10-07T19:17:09.564Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxcnv6aufk2j",
       "bluesky_cid": "bafyreig4ema2huxmn3ezvvl6osqv6awma7xdsfpc3z2yrsrhvnb6ow2dtq"
+    },
+    {
+      "id": "ce72080b-51b1-4cb6-8bc2-e323215d7d4e",
+      "slug": "l60gyowl",
+      "title": "Sign Language",
+      "date": "2026-10-08T19:13:29.112Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxf65iyv772m",
+      "bluesky_cid": "bafyreiau3c37ltnmcpixfhx3typdlcthiqzsjye663l4evbabyk2j665iu"
     }
   ]
 }

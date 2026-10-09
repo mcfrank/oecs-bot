@@ -82,7 +82,8 @@
     "44a6d380-736b-468d-9999-d74c5a7a7ae9",
     "4f342e36-0806-479e-a2db-c6cc96eebe1e",
     "36d1ca92-5159-42f6-8fa6-ab7908b8e4e0",
-    "ce72080b-51b1-4cb6-8bc2-e323215d7d4e"
+    "ce72080b-51b1-4cb6-8bc2-e323215d7d4e",
+    "788d38b2-5b36-4d06-8abb-babcbcf74d7f"
   ],
   "history": [
     {
@@ -811,6 +812,14 @@
       "date": "2026-10-08T19:13:29.112Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxf65iyv772m",
       "bluesky_cid": "bafyreiau3c37ltnmcpixfhx3typdlcthiqzsjye663l4evbabyk2j665iu"
+    },
+    {
+      "id": "788d38b2-5b36-4d06-8abb-babcbcf74d7f",
+      "slug": "iho7yj85",
+      "title": "Foundations of Emotion",
+      "date": "2026-10-09T18:44:01.299Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxhmxqqdwd2t",
+      "bluesky_cid": "bafyreigtmk4bvveqvmcyyu553vmwp2wdyegel2nglvvv3nlniswfuyjnwu"
     }
   ]
 }

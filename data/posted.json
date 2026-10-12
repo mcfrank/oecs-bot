@@ -83,7 +83,8 @@
     "4f342e36-0806-479e-a2db-c6cc96eebe1e",
     "36d1ca92-5159-42f6-8fa6-ab7908b8e4e0",
     "ce72080b-51b1-4cb6-8bc2-e323215d7d4e",
-    "788d38b2-5b36-4d06-8abb-babcbcf74d7f"
+    "788d38b2-5b36-4d06-8abb-babcbcf74d7f",
+    "20f19477-5962-453c-96d6-070c5d5e6ae2"
   ],
   "history": [
     {
@@ -820,6 +821,14 @@
       "date": "2026-10-09T18:44:01.299Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxhmxqqdwd2t",
       "bluesky_cid": "bafyreigtmk4bvveqvmcyyu553vmwp2wdyegel2nglvvv3nlniswfuyjnwu"
+    },
+    {
+      "id": "20f19477-5962-453c-96d6-070c5d5e6ae2",
+      "slug": "vibtkyng",
+      "title": "Gestalt Perception",
+      "date": "2026-10-12T21:40:55.007Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxpiasu6zh2y",
+      "bluesky_cid": "bafyreibmi7jhxfdcjiulsummei6axfdrmevltojvjvd4yg6zydg4piyona"
     }
   ]
 }

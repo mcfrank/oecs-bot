@@ -84,7 +84,8 @@
     "36d1ca92-5159-42f6-8fa6-ab7908b8e4e0",
     "ce72080b-51b1-4cb6-8bc2-e323215d7d4e",
     "788d38b2-5b36-4d06-8abb-babcbcf74d7f",
-    "20f19477-5962-453c-96d6-070c5d5e6ae2"
+    "20f19477-5962-453c-96d6-070c5d5e6ae2",
+    "50c7e139-04b7-495a-9127-e765c78746ec"
   ],
   "history": [
     {
@@ -829,6 +830,14 @@
       "date": "2026-10-12T21:40:55.007Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxpiasu6zh2y",
       "bluesky_cid": "bafyreibmi7jhxfdcjiulsummei6axfdrmevltojvjvd4yg6zydg4piyona"
+    },
+    {
+      "id": "50c7e139-04b7-495a-9127-e765c78746ec",
+      "slug": "b61joemo",
+      "title": "Algorithmic Bias",
+      "date": "2026-10-13T19:49:03.395Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxrshptdjj2i",
+      "bluesky_cid": "bafyreiaua63gnm4sshllmlfjnizun7nexhwz2py35qcqljfnohsw6rtbni"
     }
   ]
 }

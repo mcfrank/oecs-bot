@@ -85,7 +85,8 @@
     "ce72080b-51b1-4cb6-8bc2-e323215d7d4e",
     "788d38b2-5b36-4d06-8abb-babcbcf74d7f",
     "20f19477-5962-453c-96d6-070c5d5e6ae2",
-    "50c7e139-04b7-495a-9127-e765c78746ec"
+    "50c7e139-04b7-495a-9127-e765c78746ec",
+    "6aa18129-300c-4a57-993a-43dcc501d790"
   ],
   "history": [
     {
@@ -838,6 +839,14 @@
       "date": "2026-10-13T19:49:03.395Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxrshptdjj2i",
       "bluesky_cid": "bafyreiaua63gnm4sshllmlfjnizun7nexhwz2py35qcqljfnohsw6rtbni"
+    },
+    {
+      "id": "6aa18129-300c-4a57-993a-43dcc501d790",
+      "slug": "pj24xb6f",
+      "title": "Ownership",
+      "date": "2026-10-14T17:54:44.992Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxu4kajgxl2t",
+      "bluesky_cid": "bafyreifkpupehu4sgffjncvrfgvyludwxg2yo63d7cnnm3mwrnh77xare4"
     }
   ]
 }

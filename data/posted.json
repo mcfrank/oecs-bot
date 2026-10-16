@@ -87,7 +87,8 @@
     "20f19477-5962-453c-96d6-070c5d5e6ae2",
     "50c7e139-04b7-495a-9127-e765c78746ec",
     "6aa18129-300c-4a57-993a-43dcc501d790",
-    "c09a632d-af80-41df-84b7-7f5ddaa8c2ba"
+    "c09a632d-af80-41df-84b7-7f5ddaa8c2ba",
+    "8e9a83b0-7fe6-48e9-832b-8747aa245167"
   ],
   "history": [
     {
@@ -856,6 +857,14 @@
       "date": "2026-10-15T17:42:23.000Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxwmd2nyjk2m",
       "bluesky_cid": "bafyreiev47hpcsx3yrpdrahfj2in6d3augt6xdsej5sbryylcyzhfngi3q"
+    },
+    {
+      "id": "8e9a83b0-7fe6-48e9-832b-8747aa245167",
+      "slug": "spow8trw",
+      "title": "WEIRD",
+      "date": "2026-10-16T17:17:50.500Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxz3g3puym2m",
+      "bluesky_cid": "bafyreih3rmehmm4oyr3f6h4drf4c2w742wzob7yxc3d4wbfxhfyop4towu"
     }
   ]
 }

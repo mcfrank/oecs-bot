@@ -88,7 +88,8 @@
     "50c7e139-04b7-495a-9127-e765c78746ec",
     "6aa18129-300c-4a57-993a-43dcc501d790",
     "c09a632d-af80-41df-84b7-7f5ddaa8c2ba",
-    "8e9a83b0-7fe6-48e9-832b-8747aa245167"
+    "8e9a83b0-7fe6-48e9-832b-8747aa245167",
+    "40bf93ad-44ed-4524-ae14-cc28c1ab9d09"
   ],
   "history": [
     {
@@ -865,6 +866,14 @@
       "date": "2026-10-16T17:17:50.500Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mxz3g3puym2m",
       "bluesky_cid": "bafyreih3rmehmm4oyr3f6h4drf4c2w742wzob7yxc3d4wbfxhfyop4towu"
+    },
+    {
+      "id": "40bf93ad-44ed-4524-ae14-cc28c1ab9d09",
+      "slug": "ho9e9c80",
+      "title": "Language",
+      "date": "2026-10-19T19:12:34.070Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myat7ymaif2i",
+      "bluesky_cid": "bafyreifkv3phlkfnylsezfr4czfea7ram4pn2o67yaoyed3f4rcup75ssi"
     }
   ]
 }

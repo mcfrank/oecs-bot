@@ -90,7 +90,8 @@
     "c09a632d-af80-41df-84b7-7f5ddaa8c2ba",
     "8e9a83b0-7fe6-48e9-832b-8747aa245167",
     "40bf93ad-44ed-4524-ae14-cc28c1ab9d09",
-    "8680bbb7-7c77-4232-a223-85e35d90d5dc"
+    "8680bbb7-7c77-4232-a223-85e35d90d5dc",
+    "6609ecb6-302f-4a92-95ed-dd25cde5efa4"
   ],
   "history": [
     {
@@ -883,6 +884,14 @@
       "date": "2026-10-20T17:52:49.795Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myd7adhkd62i",
       "bluesky_cid": "bafyreiekrtilo4xzjibd2uxuvr62rhgco2fnvpy7hr4d24ge36qhoiwqki"
+    },
+    {
+      "id": "6609ecb6-302f-4a92-95ed-dd25cde5efa4",
+      "slug": "ivtprtc8",
+      "title": "Meaning",
+      "date": "2026-10-21T17:57:47.872Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myfpy5a4mi2d",
+      "bluesky_cid": "bafyreicn7xwhrepvyrojts4yesicabartr674hcvgdxsqh6bs2suumrori"
     }
   ]
 }

@@ -91,7 +91,8 @@
     "8e9a83b0-7fe6-48e9-832b-8747aa245167",
     "40bf93ad-44ed-4524-ae14-cc28c1ab9d09",
     "8680bbb7-7c77-4232-a223-85e35d90d5dc",
-    "6609ecb6-302f-4a92-95ed-dd25cde5efa4"
+    "6609ecb6-302f-4a92-95ed-dd25cde5efa4",
+    "be02a602-f297-4c4b-9465-44cdce28b6bc"
   ],
   "history": [
     {
@@ -892,6 +893,14 @@
       "date": "2026-10-21T17:57:47.872Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myfpy5a4mi2d",
       "bluesky_cid": "bafyreicn7xwhrepvyrojts4yesicabartr674hcvgdxsqh6bs2suumrori"
+    },
+    {
+      "id": "be02a602-f297-4c4b-9465-44cdce28b6bc",
+      "slug": "01qi4kql",
+      "title": "Moral Development",
+      "date": "2026-10-22T17:55:04.879Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myiac7hjnf2s",
+      "bluesky_cid": "bafyreifgff7pf2seq5pvuipac3pwxkuest76yj2m2p2r54o7b2ublmm2pa"
     }
   ]
 }

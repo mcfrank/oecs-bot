@@ -92,7 +92,8 @@
     "40bf93ad-44ed-4524-ae14-cc28c1ab9d09",
     "8680bbb7-7c77-4232-a223-85e35d90d5dc",
     "6609ecb6-302f-4a92-95ed-dd25cde5efa4",
-    "be02a602-f297-4c4b-9465-44cdce28b6bc"
+    "be02a602-f297-4c4b-9465-44cdce28b6bc",
+    "3f7da5ce-3e10-4f58-83a5-9fa2967e0cd7"
   ],
   "history": [
     {
@@ -901,6 +902,14 @@
       "date": "2026-10-22T17:55:04.879Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myiac7hjnf2s",
       "bluesky_cid": "bafyreifgff7pf2seq5pvuipac3pwxkuest76yj2m2p2r54o7b2ublmm2pa"
+    },
+    {
+      "id": "3f7da5ce-3e10-4f58-83a5-9fa2967e0cd7",
+      "slug": "m27ympza",
+      "title": "Intuitive Physics",
+      "date": "2026-10-23T17:49:34.820Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mykqhbejxb2s",
+      "bluesky_cid": "bafyreicbulgj443nd5u5okt4tvowlz5lk6wruccizhbpxxyaflmxkd4ibq"
     }
   ]
 }

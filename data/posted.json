@@ -94,7 +94,8 @@
     "6609ecb6-302f-4a92-95ed-dd25cde5efa4",
     "be02a602-f297-4c4b-9465-44cdce28b6bc",
     "3f7da5ce-3e10-4f58-83a5-9fa2967e0cd7",
-    "9666c9f2-7465-416d-bec8-8a5c0a23bf13"
+    "9666c9f2-7465-416d-bec8-8a5c0a23bf13",
+    "703d687c-67ed-43d7-ba6a-42b65aa1aee4"
   ],
   "history": [
     {
@@ -919,6 +920,14 @@
       "date": "2026-10-26T19:07:56.652Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mysga6jqdw24",
       "bluesky_cid": "bafyreifojqpuvsrccce5zlf2pd7elmygc57ytedz356wwpwjdtfv3whfwe"
+    },
+    {
+      "id": "703d687c-67ed-43d7-ba6a-42b65aa1aee4",
+      "slug": "go1i5g7i",
+      "title": "Active Learning",
+      "date": "2026-10-27T18:37:44.533Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myuuz3e5pj25",
+      "bluesky_cid": "bafyreidane26tukxq2sv2yu53ko7mfkmvceg6qqpz74ue6qf3qp33josjm"
     }
   ]
 }

@@ -96,7 +96,8 @@
     "3f7da5ce-3e10-4f58-83a5-9fa2967e0cd7",
     "9666c9f2-7465-416d-bec8-8a5c0a23bf13",
     "703d687c-67ed-43d7-ba6a-42b65aa1aee4",
-    "1e7a47fb-f710-46b3-aa3d-273fb7d38403"
+    "1e7a47fb-f710-46b3-aa3d-273fb7d38403",
+    "7b57c281-dd2f-4651-8c51-d359c75378c9"
   ],
   "history": [
     {
@@ -937,6 +938,14 @@
       "date": "2026-10-28T18:44:40.430Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myxfufgkvu2h",
       "bluesky_cid": "bafyreicldnjkhi6byncblp3ga3wbtx6nnvubxetenrb7plk4xywbfdygau"
+    },
+    {
+      "id": "7b57c281-dd2f-4651-8c51-d359c75378c9",
+      "slug": "s41l0yu6",
+      "title": "Memory",
+      "date": "2026-10-29T18:54:11.634Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myzwudyfhm25",
+      "bluesky_cid": "bafyreif7gcdegtbevh5ywu57fnm2gp3saik7llxfr73hswoe3msiczcah4"
     }
   ]
 }

@@ -97,7 +97,8 @@
     "9666c9f2-7465-416d-bec8-8a5c0a23bf13",
     "703d687c-67ed-43d7-ba6a-42b65aa1aee4",
     "1e7a47fb-f710-46b3-aa3d-273fb7d38403",
-    "7b57c281-dd2f-4651-8c51-d359c75378c9"
+    "7b57c281-dd2f-4651-8c51-d359c75378c9",
+    "d85def4e-55b7-45e0-b487-d0853d4c3286"
   ],
   "history": [
     {
@@ -946,6 +947,14 @@
       "date": "2026-10-29T18:54:11.634Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3myzwudyfhm25",
       "bluesky_cid": "bafyreif7gcdegtbevh5ywu57fnm2gp3saik7llxfr73hswoe3msiczcah4"
+    },
+    {
+      "id": "d85def4e-55b7-45e0-b487-d0853d4c3286",
+      "slug": "qlm9zp9e",
+      "title": "Social Identity",
+      "date": "2026-10-30T18:31:16.090Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mz4g2bqbye2l",
+      "bluesky_cid": "bafyreifw4aevmqcs7rv6chtujll6oc46oa2j36w2wlotsxajtewk4kzizm"
     }
   ]
 }

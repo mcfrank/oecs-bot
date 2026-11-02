@@ -98,7 +98,8 @@
     "703d687c-67ed-43d7-ba6a-42b65aa1aee4",
     "1e7a47fb-f710-46b3-aa3d-273fb7d38403",
     "7b57c281-dd2f-4651-8c51-d359c75378c9",
-    "d85def4e-55b7-45e0-b487-d0853d4c3286"
+    "d85def4e-55b7-45e0-b487-d0853d4c3286",
+    "56eb7cff-d23e-4d8b-9815-0c09bd789ee8"
   ],
   "history": [
     {
@@ -955,6 +956,14 @@
       "date": "2026-10-30T18:31:16.090Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mz4g2bqbye2l",
       "bluesky_cid": "bafyreifw4aevmqcs7rv6chtujll6oc46oa2j36w2wlotsxajtewk4kzizm"
+    },
+    {
+      "id": "56eb7cff-d23e-4d8b-9815-0c09bd789ee8",
+      "slug": "n6c8sb19",
+      "title": "Markov Chain Monte Carlo",
+      "date": "2026-11-02T22:16:14.371Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mzedzcrxfe2t",
+      "bluesky_cid": "bafyreibr6azsd5cr3itfuut24wiqvfvdlq7gndktohfzj6t2o6gji7d2m4"
     }
   ]
 }

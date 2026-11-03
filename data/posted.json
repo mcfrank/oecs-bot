@@ -99,7 +99,8 @@
     "1e7a47fb-f710-46b3-aa3d-273fb7d38403",
     "7b57c281-dd2f-4651-8c51-d359c75378c9",
     "d85def4e-55b7-45e0-b487-d0853d4c3286",
-    "56eb7cff-d23e-4d8b-9815-0c09bd789ee8"
+    "56eb7cff-d23e-4d8b-9815-0c09bd789ee8",
+    "381bbb0e-94ec-40c5-a8d9-186994c29b61"
   ],
   "history": [
     {
@@ -964,6 +965,14 @@
       "date": "2026-11-02T22:16:14.371Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mzedzcrxfe2t",
       "bluesky_cid": "bafyreibr6azsd5cr3itfuut24wiqvfvdlq7gndktohfzj6t2o6gji7d2m4"
+    },
+    {
+      "id": "381bbb0e-94ec-40c5-a8d9-186994c29b61",
+      "slug": "s37heqam",
+      "title": "Signaling",
+      "date": "2026-11-03T20:01:31.488Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mzgmxdzvu326",
+      "bluesky_cid": "bafyreihuu6s7ck6vdcku5nrp27gbylaz2i2xjacponodipx2iw2ojl6gxy"
     }
   ]
 }

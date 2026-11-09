@@ -103,7 +103,8 @@
     "381bbb0e-94ec-40c5-a8d9-186994c29b61",
     "d858c2df-64ae-48e4-912d-9d6b7d5e67ac",
     "7e642843-2da0-4a43-99e2-a18c1e67848e",
-    "c0cec761-8189-4c76-ad6d-cb24351f9acf"
+    "c0cec761-8189-4c76-ad6d-cb24351f9acf",
+    "b023280d-f0bf-49e5-94f5-822a9b39a389"
   ],
   "history": [
     {
@@ -1000,6 +1001,14 @@
       "date": "2026-11-06T19:54:49.064Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mzo5y4vgjg2b",
       "bluesky_cid": "bafyreigzp3bngrqkm6otqtklqjcwmw4pezqfxg7qflcdx5ydcukfznbo4q"
+    },
+    {
+      "id": "b023280d-f0bf-49e5-94f5-822a9b39a389",
+      "slug": "d8e1n1e8",
+      "title": "Social Learning",
+      "date": "2026-11-09T22:56:32.044Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mzvzjswns42l",
+      "bluesky_cid": "bafyreigthnslaxribojmo7pubcknv2ttfip7m33de6dbg2p3ecro32jg5i"
     }
   ]
 }

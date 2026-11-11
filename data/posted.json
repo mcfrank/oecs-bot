@@ -105,7 +105,8 @@
     "7e642843-2da0-4a43-99e2-a18c1e67848e",
     "c0cec761-8189-4c76-ad6d-cb24351f9acf",
     "b023280d-f0bf-49e5-94f5-822a9b39a389",
-    "1d3e0934-ef5c-4572-ba3d-cce80de7fa10"
+    "1d3e0934-ef5c-4572-ba3d-cce80de7fa10",
+    "a4045755-3387-456b-87ae-f107cae0327f"
   ],
   "history": [
     {
@@ -1018,6 +1019,14 @@
       "date": "2026-11-10T20:23:49.696Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3mzybhogosu25",
       "bluesky_cid": "bafyreibtlz2uchlh43o7dbkilxqx6j4psybyv7w3wtrvcyqgox6fsdve64"
+    },
+    {
+      "id": "a4045755-3387-456b-87ae-f107cae0327f",
+      "slug": "1w4cqquc",
+      "title": "Prosody",
+      "date": "2026-11-11T20:06:10.278Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n22qwzsmsq22",
+      "bluesky_cid": "bafyreiflvxjrp3lobnkbjrw4dx7nznsvhvgyp7btl6b2ocpgqcvu7rzhf4"
     }
   ]
 }

@@ -106,7 +106,8 @@
     "c0cec761-8189-4c76-ad6d-cb24351f9acf",
     "b023280d-f0bf-49e5-94f5-822a9b39a389",
     "1d3e0934-ef5c-4572-ba3d-cce80de7fa10",
-    "a4045755-3387-456b-87ae-f107cae0327f"
+    "a4045755-3387-456b-87ae-f107cae0327f",
+    "4b3f5d12-e7c2-4259-9119-105c67728b64"
   ],
   "history": [
     {
@@ -1027,6 +1028,14 @@
       "date": "2026-11-11T20:06:10.278Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n22qwzsmsq22",
       "bluesky_cid": "bafyreiflvxjrp3lobnkbjrw4dx7nznsvhvgyp7btl6b2ocpgqcvu7rzhf4"
+    },
+    {
+      "id": "4b3f5d12-e7c2-4259-9119-105c67728b64",
+      "slug": "be5ufmz2",
+      "title": "Physicalism",
+      "date": "2026-11-12T20:43:44.081Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n25dj4iufh22",
+      "bluesky_cid": "bafyreidl2h7azuz3zvqu6lnogagwptmnzhntumfrljtricgy4li7zj77oe"
     }
   ]
 }

@@ -107,7 +107,8 @@
     "b023280d-f0bf-49e5-94f5-822a9b39a389",
     "1d3e0934-ef5c-4572-ba3d-cce80de7fa10",
     "a4045755-3387-456b-87ae-f107cae0327f",
-    "4b3f5d12-e7c2-4259-9119-105c67728b64"
+    "4b3f5d12-e7c2-4259-9119-105c67728b64",
+    "e19abb46-367b-4351-a9a8-69b98acc7404"
   ],
   "history": [
     {
@@ -1036,6 +1037,14 @@
       "date": "2026-11-12T20:43:44.081Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n25dj4iufh22",
       "bluesky_cid": "bafyreidl2h7azuz3zvqu6lnogagwptmnzhntumfrljtricgy4li7zj77oe"
+    },
+    {
+      "id": "e19abb46-367b-4351-a9a8-69b98acc7404",
+      "slug": "fnnslclq",
+      "title": "Collective Intelligence",
+      "date": "2026-11-13T20:25:12.781Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n27swvvv6v2c",
+      "bluesky_cid": "bafyreidiclmn6l6wq3dnacqjcgaiwa7f2v4n6cputarf6xzerrxgptzsjq"
     }
   ]
 }

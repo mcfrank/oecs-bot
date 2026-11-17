@@ -109,7 +109,8 @@
     "a4045755-3387-456b-87ae-f107cae0327f",
     "4b3f5d12-e7c2-4259-9119-105c67728b64",
     "e19abb46-367b-4351-a9a8-69b98acc7404",
-    "c9a5f080-5bc3-4c80-9286-33661597bd5c"
+    "c9a5f080-5bc3-4c80-9286-33661597bd5c",
+    "8593aeda-8eca-4007-bdf8-353ec295786d"
   ],
   "history": [
     {
@@ -1054,6 +1055,14 @@
       "date": "2026-11-16T22:49:03.888Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n2hmevtsxh24",
       "bluesky_cid": "bafyreif6gik3wlarxdwvvrkgccy6qpjyhpc5kcsa3tow3pdbgn4mtojyva"
+    },
+    {
+      "id": "8593aeda-8eca-4007-bdf8-353ec295786d",
+      "slug": "2pvnx08y",
+      "title": "Personal/Subpersonal Distinction",
+      "date": "2026-11-17T21:38:50.988Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n2jywbh3yz2s",
+      "bluesky_cid": "bafyreiav5ejkxzqt6vqoryxn4azcez7muxf7hhb6p6ivohvmwfrfgcakue"
     }
   ]
 }

@@ -110,7 +110,8 @@
     "4b3f5d12-e7c2-4259-9119-105c67728b64",
     "e19abb46-367b-4351-a9a8-69b98acc7404",
     "c9a5f080-5bc3-4c80-9286-33661597bd5c",
-    "8593aeda-8eca-4007-bdf8-353ec295786d"
+    "8593aeda-8eca-4007-bdf8-353ec295786d",
+    "b3e7ef9b-adb2-403c-992e-786994f9b085"
   ],
   "history": [
     {
@@ -1063,6 +1064,14 @@
       "date": "2026-11-17T21:38:50.988Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n2jywbh3yz2s",
       "bluesky_cid": "bafyreiav5ejkxzqt6vqoryxn4azcez7muxf7hhb6p6ivohvmwfrfgcakue"
+    },
+    {
+      "id": "b3e7ef9b-adb2-403c-992e-786994f9b085",
+      "slug": "x0sk7df7",
+      "title": "Mental Representation",
+      "date": "2026-11-18T21:17:29.274Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n2mi6yhk3e2s",
+      "bluesky_cid": "bafyreigy2vivu4ao3autufyl77qpd6sd5tniwjkplhz3dcsdjvkccqd3ay"
     }
   ]
 }

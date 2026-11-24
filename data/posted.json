@@ -113,7 +113,8 @@
     "8593aeda-8eca-4007-bdf8-353ec295786d",
     "b3e7ef9b-adb2-403c-992e-786994f9b085",
     "a24eecd4-37c6-44fc-87cf-2ab0c00c701a",
-    "441037e5-2c92-47b2-b5a5-d3ea30869bf5"
+    "441037e5-2c92-47b2-b5a5-d3ea30869bf5",
+    "e6f9bed3-4653-434e-ba4d-2c2924454690"
   ],
   "history": [
     {
@@ -1090,6 +1091,14 @@
       "date": "2026-11-20T20:59:09.607Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n2ri42rawo2z",
       "bluesky_cid": "bafyreibip52p7vpgc6dfpcp6uzvbddjul6g7ybwevopydljjoy6gkxfjfe"
+    },
+    {
+      "id": "e6f9bed3-4653-434e-ba4d-2c2924454690",
+      "slug": "wax35u8s",
+      "title": "Cognitive Penetrability",
+      "date": "2026-11-24T00:41:55.636Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n2zfx5wuip2b",
+      "bluesky_cid": "bafyreice5h6zvgxgco2snfwpuvtl47cwrvyyh63xt2y3h4pj3chvdsk2fe"
     }
   ]
 }

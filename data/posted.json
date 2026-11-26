@@ -116,7 +116,8 @@
     "441037e5-2c92-47b2-b5a5-d3ea30869bf5",
     "e6f9bed3-4653-434e-ba4d-2c2924454690",
     "32a49570-936f-4fa0-b170-5b2a7dc3fbcf",
-    "e4a8e626-0dd5-4eeb-8bca-36c950e99be4"
+    "e4a8e626-0dd5-4eeb-8bca-36c950e99be4",
+    "e4bf505d-63e2-403d-b492-492533f8981c"
   ],
   "history": [
     {
@@ -1117,6 +1118,14 @@
       "date": "2026-11-25T22:20:16.057Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n366xp72ry27",
       "bluesky_cid": "bafyreia3g4uwhwnrux6k53zo5f33wa7hj5xus5ipocovt4l7dgq5drnxpq"
+    },
+    {
+      "id": "e4bf505d-63e2-403d-b492-492533f8981c",
+      "slug": "my8vpqih",
+      "title": "The Free Energy Principle",
+      "date": "2026-11-26T22:13:13.781Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n3aozzxkou27",
+      "bluesky_cid": "bafyreihslc4bkxh55kmbdmuytuxams65p4fq3jyr3cgy7pny4dvumztdqe"
     }
   ]
 }

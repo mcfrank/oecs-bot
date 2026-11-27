@@ -117,7 +117,8 @@
     "e6f9bed3-4653-434e-ba4d-2c2924454690",
     "32a49570-936f-4fa0-b170-5b2a7dc3fbcf",
     "e4a8e626-0dd5-4eeb-8bca-36c950e99be4",
-    "e4bf505d-63e2-403d-b492-492533f8981c"
+    "e4bf505d-63e2-403d-b492-492533f8981c",
+    "078ac821-b373-4083-af6b-b5f67210133f"
   ],
   "history": [
     {
@@ -1126,6 +1127,14 @@
       "date": "2026-11-26T22:13:13.781Z",
       "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n3aozzxkou27",
       "bluesky_cid": "bafyreihslc4bkxh55kmbdmuytuxams65p4fq3jyr3cgy7pny4dvumztdqe"
+    },
+    {
+      "id": "078ac821-b373-4083-af6b-b5f67210133f",
+      "slug": "hunngznm",
+      "title": "Counterfactual Thinking",
+      "date": "2026-11-27T21:53:00.480Z",
+      "bluesky_uri": "at://did:plc:oo6x74txsk3d3n7uytqsnrpc/app.bsky.feed.post/3n3d6ert47y24",
+      "bluesky_cid": "bafyreigmy5dyw62vh7ydockjoyzf2gquldl7elhpjl4fd5s37sc2iecg5u"
     }
   ]
 }
